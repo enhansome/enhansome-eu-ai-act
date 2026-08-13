@@ -1,0 +1,765 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Official EU Sources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compliance Tools & Platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open-Source Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VerifyWise",
+          "description": "Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (~247 stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:06:17Z",
+            "owner": "verifywise-ai",
+            "repo": "verifywise",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compl-AI",
+          "description": "Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T15:58:18Z",
+            "owner": "compl-ai",
+            "repo": "compl-ai",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EuConform",
+          "description": "Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (~107 stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T08:49:36Z",
+            "owner": "Hiepler",
+            "repo": "EuConform",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EU AI Act MCP Server",
+          "description": "MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-17T21:40:12Z",
+            "owner": "SonnyLabs",
+            "repo": "EU_AI_ACT_MCP",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP EU AI Act Scanner",
+          "description": "Scans codebases for EU AI Act and GDPR compliance gaps and generates auditor-ready Annex IV evidence packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T11:50:05Z",
+            "owner": "ark-forge",
+            "repo": "mcp-eu-ai-act",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-act-skills",
+          "description": "Multi-platform agent skills for EU AI Act compliance workflows anchored in ISO/IEC 42001 and ISO/IEC 27090.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-07-14T13:34:39Z",
+            "owner": "abk1969",
+            "repo": "ai-act-skills",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EU AI Act Compliance Checker",
+          "description": "Interactive web-based questionnaire for assessing compliance and generating reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-14T16:27:09Z",
+            "owner": "ARQNXS",
+            "repo": "eu-ai-act-compliance-checker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-act-conformity-pack",
+          "description": "Generates an Annex IV technical-documentation skeleton (Articles 11-15) from a YAML model card. Python CLI, MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T12:21:37Z",
+            "owner": "plusultra-tools",
+            "repo": "ai-act-conformity-pack",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@eucomplyhub/mcp-eu-ai-act",
+          "description": "MCP server for EU AI Act risk classification and Annex III analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T11:31:55Z",
+            "owner": "eucomplyhub",
+            "repo": "mcp-eu-ai-act",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "EU AI Act Compliance Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Practical AI Act",
+          "description": "Implementation of a high-risk AI system per Chapter III using an open-source ML pipeline (Bavarian AI Act Accelerator).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-11T11:08:40Z",
+            "owner": "aai-institute",
+            "repo": "practical-ai-act",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Act Engineering",
+          "description": "Curated reference list for engineering practices ensuring AI systems comply with AI Act regulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-21T14:46:20Z",
+            "owner": "visenger",
+            "repo": "aiact-engineering",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Act Technical Documentation Assessment Tools",
+          "description": "Research replication package for using AI to draft Annex IV-compliant technical documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-05T20:41:18Z",
+            "owner": "Francesco-Sovrano",
+            "repo": "AI-Act-Compliance-Technical-Documentation-Assessment-Tools",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Reference Implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Algoritmekader (Dutch Government)",
+          "description": "Netherlands' open-source Algorithm Framework for lawful and ethical government AI use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T08:07:26Z",
+            "owner": "MinBZK",
+            "repo": "Algoritmekader",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Act Implementation Tool (Algorithm Audit)",
+          "description": "Risk classification of algorithmic systems using simplified questionnaires.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T08:35:32Z",
+            "owner": "NGO-Algorithm-Audit",
+            "repo": "AI-Act-Implementation-Tool",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regula",
+          "description": "CLI for EU AI Act risk scanning, conformity evidence packs, and CrowS-Pairs bias evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T10:41:58Z",
+            "owner": "kuzivaai",
+            "repo": "getregula",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Assessment Tool (AI4Belgium)",
+          "description": "Open-source interactive tool based on ALTAI recommendations for assessing AI trustworthiness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-15T08:35:08Z",
+            "owner": "AI4Belgium",
+            "repo": "ai-assessment-tool",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Risk Assessment & Classification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hugging Face EU AI Act Guide for OSS Developers",
+          "description": "Official guide covering obligations for GPAI models, copyright compliance, and documentation requirements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T21:52:46Z",
+            "owner": "huggingface",
+            "repo": "blog",
+            "stars": 3494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EU AI Act Interactive Guide",
+          "description": "Comprehensive interactive guide for startups and SMEs with compliance checker and risk assessment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-03T08:18:18Z",
+            "owner": "niranjanxprt",
+            "repo": "eu-ai-act",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Educational & Informational"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microsoft Agent Governance Toolkit",
+          "description": "Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (~900+ stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:56:00Z",
+            "owner": "microsoft",
+            "repo": "agent-governance-toolkit",
+            "stars": 5895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nobulex",
+          "description": "Cryptographic audit trails for AI agent record-keeping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T22:50:14Z",
+            "owner": "arian-gogani",
+            "repo": "nobulex",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agent-security-harness",
+          "description": "Adversarial testing framework for autonomous agents with EU AI Act crosswalks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T13:46:26Z",
+            "owner": "msaleme",
+            "repo": "red-team-blue-team-agent-fabric",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vaara",
+          "description": "Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:20:20Z",
+            "owner": "vaaraio",
+            "repo": "vaara",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EATF",
+          "description": "Open specification and reference implementation for verifiable AI agent self-attestation.",
+          "children": []
+        }
+      ],
+      "title": "AI Agent Governance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AGT EU AI Act Compliance Checklist",
+          "description": "Maps Agent Governance Toolkit controls to EU AI Act requirements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:56:00Z",
+            "owner": "microsoft",
+            "repo": "agent-governance-toolkit",
+            "stars": 5895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGT NIST AI RMF Alignment",
+          "description": "Maps Agent Governance Toolkit controls to the NIST AI Risk Management Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:56:00Z",
+            "owner": "microsoft",
+            "repo": "agent-governance-toolkit",
+            "stars": 5895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGT SOC 2 Type II Mapping",
+          "description": "Self-assessment mapping Agent Governance Toolkit controls to SOC 2 criteria.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:56:00Z",
+            "owner": "microsoft",
+            "repo": "agent-governance-toolkit",
+            "stars": 5895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGT Known Limitations",
+          "description": "Documents Agent Governance Toolkit design boundaries and compliance gaps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:56:00Z",
+            "owner": "microsoft",
+            "repo": "agent-governance-toolkit",
+            "stars": 5895
+          }
+        }
+      ],
+      "title": "AGT Implementation References"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome AI Regulation",
+          "description": "Broader AI regulation ecosystem mapping including guidelines, principles, and standards (~800 stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T18:50:29Z",
+            "owner": "EthicalML",
+            "repo": "awesome-artificial-intelligence-regulation",
+            "stars": 1454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Responsible AI",
+          "description": "Curated list of responsible, trustworthy, and human-centered AI resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T09:32:55Z",
+            "owner": "AthenaCore",
+            "repo": "AwesomeResponsibleAI",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "Curated Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Legal Analysis & Guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Standards & Frameworks"
+    },
+    {
+      "description": "Practical templates, checklists, and assessment materials for AI Act readiness, documentation, FRIAs, and conformity workflows.",
+      "items": [],
+      "title": "Templates & Checklists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Training & Certifications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "News & Newsletters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community & Events"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Governance & Ethics Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SHAP",
+          "description": "Game-theoretic ML explainability using Shapley values; the most widely used explainability library (~23,000 stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T21:52:04Z",
+            "owner": "shap",
+            "repo": "shap",
+            "stars": 25682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIME",
+          "description": "Model-agnostic library explaining individual predictions via local surrogate models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-25T20:32:21Z",
+            "owner": "marcotcr",
+            "repo": "lime",
+            "stars": 12166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InterpretML (Microsoft)",
+          "description": "Trains interpretable glassbox models (EBM) and explains blackbox systems (~6,000 stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T16:51:03Z",
+            "owner": "interpretml",
+            "repo": "interpret",
+            "stars": 6916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Captum (Meta/PyTorch)",
+          "description": "Model interpretability with Integrated Gradients, SHAP, LIME, and saliency maps for PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:08:55Z",
+            "owner": "meta-pytorch",
+            "repo": "captum",
+            "stars": 5685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alibi (Seldon)",
+          "description": "Python library for model inspection: SHAP, ALE, counterfactual explanations, and anchors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-17T13:23:21Z",
+            "owner": "SeldonIO",
+            "repo": "alibi",
+            "stars": 2643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Explainability 360 (IBM)",
+          "description": "Comprehensive toolkit for interpretability across tabular, text, image, and time series data (~1,500 stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T16:30:28Z",
+            "owner": "Trusted-AI",
+            "repo": "AIX360",
+            "stars": 1793
+          }
+        }
+      ],
+      "title": "Explainability Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI Fairness 360 (IBM/Linux Foundation)",
+          "description": "70+ fairness metrics and 10+ bias mitigation algorithms (~2,500 stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T19:55:33Z",
+            "owner": "Trusted-AI",
+            "repo": "AIF360",
+            "stars": 2852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fairlearn (Microsoft)",
+          "description": "Assessing and improving fairness with group fairness metrics and mitigation algorithms (~1,900 stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T02:16:59Z",
+            "owner": "fairlearn",
+            "repo": "fairlearn",
+            "stars": 2268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsible AI Toolbox (Microsoft)",
+          "description": "Unified dashboard combining Fairlearn, InterpretML, Error Analysis, and Counterfactual Analysis (~1,300 stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T18:27:55Z",
+            "owner": "microsoft",
+            "repo": "responsible-ai-toolbox",
+            "stars": 1820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aequitas (University of Chicago)",
+          "description": "Bias and fairness audit toolkit across multiple population sub-groups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-12T09:51:06Z",
+            "owner": "dssg",
+            "repo": "aequitas",
+            "stars": 769
+          }
+        }
+      ],
+      "title": "Fairness Toolkits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CleverHans",
+          "description": "Library for creating adversarial attacks and benchmarking model robustness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-10T13:26:10Z",
+            "owner": "cleverhans-lab",
+            "repo": "cleverhans",
+            "stars": 6449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adversarial Robustness Toolbox (IBM/Linux Foundation)",
+          "description": "Comprehensive framework for evaluating ML security with attacks, defenses, and metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T07:01:28Z",
+            "owner": "Trusted-AI",
+            "repo": "adversarial-robustness-toolbox",
+            "stars": 6171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counterfit (Microsoft)",
+          "description": "Command-line tool for orchestrating adversarial attacks and testing ML models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-18T13:29:17Z",
+            "owner": "Azure",
+            "repo": "counterfit",
+            "stars": 932
+          }
+        }
+      ],
+      "title": "Robustness & Adversarial Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PySyft (OpenMined)",
+          "description": "Secure and private deep learning supporting federated learning and secure computation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:26:40Z",
+            "owner": "OpenMined",
+            "repo": "PySyft",
+            "stars": 9938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow Privacy",
+          "description": "Training ML models with differential privacy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T08:56:21Z",
+            "owner": "tensorflow",
+            "repo": "privacy",
+            "stars": 2022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDP",
+          "description": "Library for privacy-aware computations with differential privacy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:11:23Z",
+            "owner": "opendp",
+            "repo": "opendp",
+            "stars": 430
+          }
+        }
+      ],
+      "title": "Privacy-Preserving ML"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Regulatory Sandboxes"
+    },
+    {
+      "description": "Contributions are welcome. Read for guidelines.\nPlease open an issue if you find a broken link or know a resource that belongs here.\n\nTo the extent possible under law, Carlos Hernandez has waived all copyright and related rights to this work.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Maintained by Carlos Hernandez (GitHub @carloshvp).",
+      "items": [],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:24.973Z",
+    "original_repository": "GenAI-Gurus/awesome-eu-ai-act",
+    "original_repository_sha": "20e72c629596645814a953d9c3ece51cb88f51b9",
+    "enhanced_repository": "enhansome/enhansome-eu-ai-act",
+    "enhanced_repository_description": null,
+    "title": "Awesome EU AI Act with stars"
+  }
+}
