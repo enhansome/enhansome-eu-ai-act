@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 844279282,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T23:08:03Z",
+                "last_commit": "2026-08-21T14:32:43Z",
                 "owner": "verifywise-ai",
                 "repo": "verifywise",
                 "stars": 338
@@ -275,10 +275,10 @@
                 "archived": false,
                 "id": 240541316,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T13:29:28Z",
+                "last_commit": "2026-08-21T13:13:32Z",
                 "owner": "huggingface",
                 "repo": "blog",
-                "stars": 3500
+                "stars": 3501
               }
             },
             {
@@ -312,10 +312,10 @@
                 "archived": false,
                 "id": 1171111467,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:21:42Z",
+                "last_commit": "2026-08-21T21:11:27Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6069
+                "stars": 6078
               }
             },
             {
@@ -357,7 +357,7 @@
                 "archived": false,
                 "id": 1215881923,
                 "language": "Python",
-                "last_commit": "2026-08-20T13:36:38Z",
+                "last_commit": "2026-08-21T21:54:32Z",
                 "owner": "vaaraio",
                 "repo": "vaara",
                 "stars": 11
@@ -379,10 +379,10 @@
                 "archived": false,
                 "id": 1171111467,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:21:42Z",
+                "last_commit": "2026-08-21T21:11:27Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6069
+                "stars": 6078
               }
             },
             {
@@ -394,10 +394,10 @@
                 "archived": false,
                 "id": 1171111467,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:21:42Z",
+                "last_commit": "2026-08-21T21:11:27Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6069
+                "stars": 6078
               }
             },
             {
@@ -409,10 +409,10 @@
                 "archived": false,
                 "id": 1171111467,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:21:42Z",
+                "last_commit": "2026-08-21T21:11:27Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6069
+                "stars": 6078
               }
             },
             {
@@ -424,10 +424,10 @@
                 "archived": false,
                 "id": 1171111467,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:21:42Z",
+                "last_commit": "2026-08-21T21:11:27Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6069
+                "stars": 6078
               }
             }
           ],
@@ -449,7 +449,7 @@
                 "last_commit": "2026-08-11T18:50:29Z",
                 "owner": "EthicalML",
                 "repo": "awesome-artificial-intelligence-regulation",
-                "stars": 1456
+                "stars": 1458
               }
             },
             {
@@ -461,7 +461,7 @@
                 "archived": false,
                 "id": 403280272,
                 "language": null,
-                "last_commit": "2026-08-20T01:39:55Z",
+                "last_commit": "2026-08-21T03:13:09Z",
                 "owner": "AthenaCore",
                 "repo": "AwesomeResponsibleAI",
                 "stars": 142
@@ -492,7 +492,7 @@
                 "last_commit": "2026-08-11T21:52:04Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25693
+                "stars": 25695
               }
             },
             {
@@ -522,7 +522,7 @@
                 "last_commit": "2026-08-17T16:52:09Z",
                 "owner": "interpretml",
                 "repo": "interpret",
-                "stars": 6920
+                "stars": 6922
               }
             },
             {
@@ -534,10 +534,10 @@
                 "archived": false,
                 "id": 204734444,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:03:47Z",
+                "last_commit": "2026-08-21T20:51:46Z",
                 "owner": "meta-pytorch",
                 "repo": "captum",
-                "stars": 5687
+                "stars": 5689
               }
             },
             {
@@ -601,7 +601,7 @@
                 "archived": false,
                 "id": 133444044,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:14:37Z",
+                "last_commit": "2026-08-21T18:47:25Z",
                 "owner": "fairlearn",
                 "repo": "fairlearn",
                 "stars": 2271
@@ -671,7 +671,7 @@
                 "last_commit": "2025-12-12T07:01:28Z",
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
-                "stars": 6188
+                "stars": 6189
               }
             },
             {
@@ -735,7 +735,7 @@
                 "archived": false,
                 "id": 336597985,
                 "language": "Rust",
-                "last_commit": "2026-08-20T14:22:32Z",
+                "last_commit": "2026-08-21T20:36:57Z",
                 "owner": "opendp",
                 "repo": "opendp",
                 "stars": 430
@@ -751,7 +751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:48:16.740Z",
+    "last_updated": "2026-08-21T23:46:27.636Z",
     "original_repository": "GenAI-Gurus/awesome-eu-ai-act",
     "original_repository_id": 740460500,
     "original_repository_sha": "20e72c629596645814a953d9c3ece51cb88f51b9",
