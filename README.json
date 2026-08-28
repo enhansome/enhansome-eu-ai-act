@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 844279282,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:47:08Z",
+                "last_commit": "2026-08-28T06:09:27Z",
                 "owner": "verifywise-ai",
                 "repo": "verifywise",
                 "stars": 341
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "compl-ai",
                 "repo": "compl-ai",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "Hiepler",
                 "repo": "EuConform",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "SonnyLabs",
                 "repo": "EU_AI_ACT_MCP",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "ark-forge",
                 "repo": "mcp-eu-ai-act",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "abk1969",
                 "repo": "ai-act-skills",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "ARQNXS",
                 "repo": "eu-ai-act-compliance-checker",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "plusultra-tools",
                 "repo": "ai-act-conformity-pack",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "eucomplyhub",
                 "repo": "mcp-eu-ai-act",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -159,8 +168,9 @@
                 "last_commit": "2025-11-11T11:08:40Z",
                 "owner": "aai-institute",
                 "repo": "practical-ai-act",
-                "stars": 20
-              }
+                "stars": 21
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "visenger",
                 "repo": "aiact-engineering",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "Francesco-Sovrano",
                 "repo": "AI-Act-Compliance-Technical-Documentation-Assessment-Tools",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -212,7 +224,8 @@
                 "owner": "MinBZK",
                 "repo": "Algoritmekader",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -223,11 +236,12 @@
                 "archived": false,
                 "id": 881842521,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:21:31Z",
+                "last_commit": "2026-08-27T14:33:18Z",
                 "owner": "NGO-Algorithm-Audit",
                 "repo": "AI-Act-Implementation-Tool",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -238,11 +252,12 @@
                 "archived": false,
                 "id": 1191416114,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:01:41Z",
+                "last_commit": "2026-08-27T22:03:41Z",
                 "owner": "kuzivaai",
                 "repo": "getregula",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "AI4Belgium",
                 "repo": "ai-assessment-tool",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -278,8 +294,9 @@
                 "last_commit": "2026-08-26T13:46:57Z",
                 "owner": "huggingface",
                 "repo": "blog",
-                "stars": 3504
-              }
+                "stars": 3506
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "niranjanxprt",
                 "repo": "eu-ai-act",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -315,8 +333,9 @@
                 "last_commit": "2026-08-25T18:09:18Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6134
-              }
+                "stars": 6138
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "arian-gogani",
                 "repo": "nobulex",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "msaleme",
                 "repo": "red-team-blue-team-agent-fabric",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -357,11 +378,12 @@
                 "archived": false,
                 "id": 1215881923,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:51:17Z",
+                "last_commit": "2026-08-28T05:15:37Z",
                 "owner": "vaaraio",
                 "repo": "vaara",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -382,8 +404,9 @@
                 "last_commit": "2026-08-25T18:09:18Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6134
-              }
+                "stars": 6138
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -397,8 +420,9 @@
                 "last_commit": "2026-08-25T18:09:18Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6134
-              }
+                "stars": 6138
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -412,8 +436,9 @@
                 "last_commit": "2026-08-25T18:09:18Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6134
-              }
+                "stars": 6138
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -427,8 +452,9 @@
                 "last_commit": "2026-08-25T18:09:18Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6134
-              }
+                "stars": 6138
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -450,7 +476,8 @@
                 "owner": "EthicalML",
                 "repo": "awesome-artificial-intelligence-regulation",
                 "stars": 1461
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -465,7 +492,8 @@
                 "owner": "AthenaCore",
                 "repo": "AwesomeResponsibleAI",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -489,11 +517,12 @@
                 "archived": false,
                 "id": 74505259,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T20:07:12Z",
+                "last_commit": "2026-08-27T20:49:55Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25706
-              }
+                "stars": 25707
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -508,7 +537,8 @@
                 "owner": "marcotcr",
                 "repo": "lime",
                 "stars": 12163
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -522,8 +552,9 @@
                 "last_commit": "2026-08-24T16:52:26Z",
                 "owner": "interpretml",
                 "repo": "interpret",
-                "stars": 6928
-              }
+                "stars": 6929
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -537,8 +568,9 @@
                 "last_commit": "2026-08-27T04:38:41Z",
                 "owner": "meta-pytorch",
                 "repo": "captum",
-                "stars": 5693
-              }
+                "stars": 5694
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -553,7 +585,8 @@
                 "owner": "SeldonIO",
                 "repo": "alibi",
                 "stars": 2644
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -567,8 +600,9 @@
                 "last_commit": "2026-08-08T16:30:28Z",
                 "owner": "Trusted-AI",
                 "repo": "AIX360",
-                "stars": 1796
-              }
+                "stars": 1797
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -589,8 +623,9 @@
                 "last_commit": "2026-06-15T19:55:33Z",
                 "owner": "Trusted-AI",
                 "repo": "AIF360",
-                "stars": 2857
-              }
+                "stars": 2858
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -604,8 +639,9 @@
                 "last_commit": "2026-08-24T17:23:49Z",
                 "owner": "fairlearn",
                 "repo": "fairlearn",
-                "stars": 2277
-              }
+                "stars": 2278
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -619,8 +655,9 @@
                 "last_commit": "2026-08-19T19:32:14Z",
                 "owner": "microsoft",
                 "repo": "responsible-ai-toolbox",
-                "stars": 1824
-              }
+                "stars": 1826
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -635,7 +672,8 @@
                 "owner": "dssg",
                 "repo": "aequitas",
                 "stars": 771
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -657,7 +695,8 @@
                 "owner": "tensorflow",
                 "repo": "model-card-toolkit",
                 "stars": 452
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -679,7 +718,8 @@
                 "owner": "cleverhans-lab",
                 "repo": "cleverhans",
                 "stars": 6450
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -693,8 +733,9 @@
                 "last_commit": "2025-12-12T07:01:28Z",
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
-                "stars": 6206
-              }
+                "stars": 6209
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -709,7 +750,8 @@
                 "owner": "Azure",
                 "repo": "counterfit",
                 "stars": 937
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -727,11 +769,12 @@
                 "archived": false,
                 "id": 97641933,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:58:33Z",
+                "last_commit": "2026-08-27T13:32:48Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 9957
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -746,7 +789,8 @@
                 "owner": "tensorflow",
                 "repo": "privacy",
                 "stars": 2026
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             },
             {
               "node_type": "item",
@@ -757,11 +801,12 @@
                 "archived": false,
                 "id": 336597985,
                 "language": "Rust",
-                "last_commit": "2026-08-26T17:00:14Z",
+                "last_commit": "2026-08-27T17:41:00Z",
                 "owner": "opendp",
                 "repo": "opendp",
                 "stars": 433
-              }
+              },
+              "first_seen": "2026-08-28T06:59:03.783Z"
             }
           ],
           "description": null,
@@ -773,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:40.472Z",
+    "last_updated": "2026-08-28T06:59:03.783Z",
     "original_repository_info": {
       "archived": false,
       "id": 740460500,
@@ -781,7 +826,7 @@
       "last_commit": "2026-06-27T21:53:22Z",
       "owner": "GenAI-Gurus",
       "repo": "awesome-eu-ai-act",
-      "stars": 85
+      "stars": 86
     },
     "original_repository_sha": "20e72c629596645814a953d9c3ece51cb88f51b9",
     "enhanced_repository": "enhansome/enhansome-eu-ai-act",
