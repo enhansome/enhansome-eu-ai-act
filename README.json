@@ -12,12 +12,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI frameworks and regulations. Join our Discord channel: https://discord.com/invite/d3k3E4uEpR",
+                "homepage": "https://verifywise.ai",
                 "id": 844279282,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T06:09:27Z",
+                "open_issues": 45,
                 "owner": "verifywise-ai",
                 "repo": "verifywise",
-                "stars": 341
+                "stars": 341,
+                "topics": [
+                  "ai",
+                  "ai-auditing",
+                  "ai-compliance",
+                  "ai-governance",
+                  "ai-governance-model",
+                  "ai-risk",
+                  "audit",
+                  "auditing",
+                  "compliance",
+                  "eu-ai-act",
+                  "governance",
+                  "grc",
+                  "iso27001",
+                  "iso42001",
+                  "llm-eval",
+                  "llm-evaluation",
+                  "nist-ai-rmf",
+                  "risk-management"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -28,12 +52,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source compliance-centered evaluation framework for Generative AI models",
+                "homepage": "https://compl-ai.org",
                 "id": 869021561,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T18:18:06Z",
+                "open_issues": 3,
                 "owner": "compl-ai",
                 "repo": "compl-ai",
-                "stars": 206
+                "stars": 206,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -44,12 +73,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EU AI Act Compliance Tool - Risk classification and bias testing",
+                "homepage": "https://euconform.eu",
                 "id": 1117634508,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-01T08:49:36Z",
+                "open_issues": 0,
                 "owner": "Hiepler",
                 "repo": "EuConform",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "ai",
+                  "ai-act",
+                  "ai-governance",
+                  "compliance",
+                  "eu-ai-act",
+                  "evidence-engine",
+                  "gdpr",
+                  "nextjs",
+                  "open-source",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -60,12 +105,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EU AI Act MCP (Model Context Protocol) that connects to your AI agents, helping you to comply with the EU AI Act.",
+                "homepage": "https://sonnylabs.ai/",
                 "id": 1087366129,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-17T21:40:12Z",
+                "open_issues": 3,
                 "owner": "SonnyLabs",
                 "repo": "EU_AI_ACT_MCP",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "ai",
+                  "cybersecurity",
+                  "eu",
+                  "eu-ai-act"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -76,12 +131,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP EU AI Act Compliance Scanner - Open source tool to detect EU AI Act violations in codebases",
+                "homepage": "https://arkforge.fr/mcp-eu-ai-act.html",
                 "id": 1159515279,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-04T11:50:05Z",
+                "open_issues": 0,
                 "owner": "ark-forge",
                 "repo": "mcp-eu-ai-act",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "ai-governance",
+                  "ai-regulation",
+                  "ai-safety",
+                  "claude",
+                  "compliance",
+                  "compliance-scanner",
+                  "eu-ai-act",
+                  "gdpr",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "python",
+                  "regulation"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -92,12 +167,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-platform agent skills (Claude Code + Gemini CLI + OpenAI Codex) for EU AI Act compliance, anchored on ISO/IEC 42001 (AIMS) and ISO/IEC 27090 (AI cybersecurity). Citation-grade. Decision-support, not legal advice.",
+                "homepage": "https://github.com/abk1969/ai-act-skills/releases/tag/v2.0.0",
                 "id": 1223290249,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-07-14T13:34:39Z",
+                "open_issues": 2,
                 "owner": "abk1969",
                 "repo": "ai-act-skills",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "agent-skills",
+                  "ai-act",
+                  "ai-compliance",
+                  "ai-cybersecurity",
+                  "ai-governance",
+                  "aims",
+                  "claude-code",
+                  "claude-skill",
+                  "compliance",
+                  "conformity-assessment",
+                  "eu-ai-act",
+                  "fria",
+                  "gemini-cli",
+                  "gpai",
+                  "grc",
+                  "high-risk-ai",
+                  "iso-27090",
+                  "iso-42001",
+                  "openai-codex",
+                  "regulation-2024-1689"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -108,14 +209,54 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 828267901,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-14T16:27:09Z",
+                "open_issues": 0,
                 "owner": "ARQNXS",
                 "repo": "eu-ai-act-compliance-checker",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PALO Framework",
+              "description": "Local-first EU AI Act risk tiering, FRIA, lifecycle controls, and evidence workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source operational AI governance framework for lifecycle controls, agentic authority, policy enforcement, evidence and assurance.",
+                "homepage": "https://www.paloframework.org",
+                "id": 1043528670,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-08-28T04:31:30Z",
+                "open_issues": 13,
+                "owner": "sev7enITA",
+                "repo": "PALOframework",
+                "stars": 1,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agents",
+                  "ai-ethics",
+                  "ai-governance",
+                  "auditability",
+                  "eu-ai-act",
+                  "governance-framework",
+                  "human-oversight",
+                  "italy",
+                  "mcp",
+                  "nist-ai-rmf",
+                  "palo",
+                  "responsible-ai"
+                ]
+              },
+              "first_seen": "2026-08-29T04:24:57.390Z"
             },
             {
               "node_type": "item",
@@ -124,12 +265,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emit EU AI Act Annex IV technical-documentation + FRIA evidence-pack scaffolds with verbatim-cited regulatory text and a hash-chained manifest. OSS Python CLI + GitHub Action.",
+                "homepage": "https://github.com/plusultra-tools/ai-act-conformity-pack",
                 "id": 1239821789,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-19T12:21:37Z",
+                "open_issues": 0,
                 "owner": "plusultra-tools",
                 "repo": "ai-act-conformity-pack",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai-act",
+                  "annex-iv",
+                  "cli",
+                  "compliance",
+                  "conformity",
+                  "eu-regulation",
+                  "evidence-pack",
+                  "fria"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -140,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for EU AI Act compliance — multi-jurisdiction risk classifier + Annex III deep analyzer",
+                "homepage": null,
                 "id": 1238862573,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-27T11:31:55Z",
+                "open_issues": 0,
                 "owner": "eucomplyhub",
                 "repo": "mcp-eu-ai-act",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -163,12 +323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This guide brings together EU AI Act requirements with practical engineering solutions.",
+                "homepage": "https://practical-ai-act.eu",
                 "id": 911142316,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-11T11:08:40Z",
+                "open_issues": 6,
                 "owner": "aai-institute",
                 "repo": "practical-ai-act",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -179,12 +344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The reference list for the emerging term \"AI Act Engineering\" that refers to the engineering practices that ensure AI systems comply with the EU AI Act's regulations.",
+                "homepage": null,
                 "id": 789828514,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-11-21T14:46:20Z",
+                "open_issues": 7,
                 "owner": "visenger",
                 "repo": "aiact-engineering",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -195,12 +365,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Replication package of \"Simplifying Software Compliance: AI Technologies in Drafting Technical Documentation for the AI Act\".",
+                "homepage": null,
                 "id": 943286969,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-05T20:41:18Z",
+                "open_issues": 0,
                 "owner": "Francesco-Sovrano",
                 "repo": "AI-Act-Compliance-Technical-Documentation-Assessment-Tools",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "ai-act",
+                  "ai-auditing",
+                  "ai-compliance",
+                  "ai-ethics",
+                  "ai-governance",
+                  "ai-regulation",
+                  "ai-risk-assessment",
+                  "automated-documentation",
+                  "compliance-automation",
+                  "doxpert",
+                  "explainable-ai",
+                  "high-risk-ai-systems",
+                  "legaltech",
+                  "machine-learning-documentation",
+                  "nlp-for-compliance",
+                  "openai-gpt",
+                  "rank-biserial-correlation",
+                  "responsible-ai",
+                  "software-compliance",
+                  "technical-documentation"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -218,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Het ministerie van BZK gaat aan de slag met een Algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.",
+                "homepage": "https://minbzk.github.io/Algoritmekader/",
                 "id": 734371578,
                 "language": "Python",
+                "license": "EUPL-1.2",
                 "last_commit": "2026-08-07T08:07:26Z",
+                "open_issues": 76,
                 "owner": "MinBZK",
                 "repo": "Algoritmekader",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -234,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 881842521,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T14:33:18Z",
+                "license": "EUPL-1.2",
+                "last_commit": "2026-08-28T14:22:03Z",
+                "open_issues": 1,
                 "owner": "NGO-Algorithm-Audit",
                 "repo": "AI-Act-Implementation-Tool",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -250,12 +456,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local code-observable AI-governance indicators for EU AI Act, South Korea AI Basic Act and Colorado review. Open-source Python CLI.",
+                "homepage": "https://getregula.com",
                 "id": 1191416114,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:03:41Z",
+                "open_issues": 0,
                 "owner": "kuzivaai",
                 "repo": "getregula",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "ai-act",
+                  "ai-governance",
+                  "ai-safety",
+                  "cli",
+                  "compliance",
+                  "compliance-tool",
+                  "developer-tools",
+                  "eu-ai-act",
+                  "python",
+                  "responsible-ai",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -266,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 655645591,
                 "language": "TypeScript",
+                "license": "EUPL-1.2",
                 "last_commit": "2025-12-15T08:35:08Z",
+                "open_issues": 10,
                 "owner": "AI4Belgium",
                 "repo": "ai-assessment-tool",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -289,12 +517,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repo for HF blog posts",
+                "homepage": "https://hf.co/blog",
                 "id": 240541316,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T13:46:57Z",
+                "license": null,
+                "last_commit": "2026-08-28T21:05:13Z",
+                "open_issues": 249,
                 "owner": "huggingface",
                 "repo": "blog",
-                "stars": 3506
+                "stars": 3506,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -305,12 +540,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comprehensive interactive guide to EU AI Act & GDPR compliance for startups and SMEs - Interactive compliance checker, risk assessment, sector guidance, and implementation timeline",
+                "homepage": "https://niranjanxprt.github.io/eu-ai-act/",
                 "id": 1088413706,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-11-03T08:18:18Z",
+                "open_issues": 1,
                 "owner": "niranjanxprt",
                 "repo": "eu-ai-act",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai-act",
+                  "ai-regulation",
+                  "compliance",
+                  "compliance-tool",
+                  "eu-regulation",
+                  "gdpr",
+                  "interactive-guide",
+                  "legal-tech",
+                  "regulatory-compliance",
+                  "risk-assessment",
+                  "sme-support",
+                  "startup-resources"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -328,12 +581,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+                "homepage": null,
                 "id": 1171111467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:09:18Z",
+                "open_issues": 251,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6138
+                "stars": 6143,
+                "topics": [
+                  "agent-framework",
+                  "ai-agents",
+                  "ai-safety",
+                  "compliance",
+                  "governance",
+                  "microsoft",
+                  "owasp",
+                  "policy-engine",
+                  "python",
+                  "security",
+                  "trust",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -344,12 +615,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prior direction, kept rather than deleted. Signed, offline-verifiable receipts for AI agent actions, and a reference implementation of the OWASP Agentic Skills Top 10 AST09 receipt pattern. Nobulex is now the independent reliability registry for agent tools: github.com/arian-gogani/nobulex-registry",
+                "homepage": "https://nobulex.com",
                 "id": 1170108646,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T22:50:14Z",
+                "open_issues": 4,
                 "owner": "arian-gogani",
                 "repo": "nobulex",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "accountability",
+                  "agent-audit",
+                  "agent-governance",
+                  "ai-agents",
+                  "ai-security",
+                  "audit-trail",
+                  "autonomous-agents",
+                  "compliance",
+                  "credit-score",
+                  "cryptography",
+                  "ed25519",
+                  "eu-ai-act",
+                  "hash-chain",
+                  "mcp-server",
+                  "owasp",
+                  "python",
+                  "receipts",
+                  "reputation",
+                  "rfc8785",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -360,12 +657,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI agent security harness, adversarial testing: 606 executable tests on main, 603 in the v4.15.0 release, across MCP, A2A, x402/L402, decision governance, benchmark integrity, human-in-the-loop, skill supply chain. Portable signed conformance fixtures; published cross-implementation result. OWASP Agentic v1.1 T1-T17, AIUC-1 19/20, NIST AI 800-2.",
+                "homepage": "https://pypi.org/project/agent-security-harness/",
                 "id": 1097142066,
                 "language": "Python",
-                "last_commit": "2026-08-26T20:21:18Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:12:22Z",
+                "open_issues": 15,
                 "owner": "msaleme",
                 "repo": "red-team-blue-team-agent-fabric",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "a2a-protocol",
+                  "agent-governance",
+                  "agent-security",
+                  "agentic-ai",
+                  "ai-agents",
+                  "ai-security",
+                  "aiuc-1",
+                  "conformance",
+                  "decision-governance",
+                  "eu-ai-act",
+                  "l402",
+                  "mcp",
+                  "mcp-security",
+                  "owasp",
+                  "receipts",
+                  "red-team",
+                  "reproducibility",
+                  "security-testing",
+                  "verification",
+                  "x402"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -376,12 +699,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accountable Autonomy: open-source evidence layer that gates every AI agent tool call against your policy and writes a hash-chained record an auditor verifies offline, without trusting you. Root-agnostic; binds to TPM 2.0 / SEV-SNP when present. Your environment, no SaaS, no telemetry. AGPL-3.0.",
+                "homepage": "https://vaara.io",
                 "id": 1215881923,
                 "language": "Python",
-                "last_commit": "2026-08-28T05:15:37Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T02:30:31Z",
+                "open_issues": 0,
                 "owner": "vaaraio",
                 "repo": "vaara",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "agent-governance",
+                  "agent-security",
+                  "ai-act",
+                  "ai-agents",
+                  "ai-governance",
+                  "article-12",
+                  "attestation",
+                  "audit-trail",
+                  "compliance",
+                  "confidential-computing",
+                  "eu-ai-act",
+                  "ima",
+                  "llm-security",
+                  "mcp",
+                  "python",
+                  "remote-attestation",
+                  "runtime-monitoring",
+                  "sovereign-ai",
+                  "tpm",
+                  "trusted-computing"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -399,12 +748,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+                "homepage": null,
                 "id": 1171111467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:09:18Z",
+                "open_issues": 251,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6138
+                "stars": 6143,
+                "topics": [
+                  "agent-framework",
+                  "ai-agents",
+                  "ai-safety",
+                  "compliance",
+                  "governance",
+                  "microsoft",
+                  "owasp",
+                  "policy-engine",
+                  "python",
+                  "security",
+                  "trust",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -415,12 +782,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+                "homepage": null,
                 "id": 1171111467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:09:18Z",
+                "open_issues": 251,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6138
+                "stars": 6143,
+                "topics": [
+                  "agent-framework",
+                  "ai-agents",
+                  "ai-safety",
+                  "compliance",
+                  "governance",
+                  "microsoft",
+                  "owasp",
+                  "policy-engine",
+                  "python",
+                  "security",
+                  "trust",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -431,12 +816,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+                "homepage": null,
                 "id": 1171111467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:09:18Z",
+                "open_issues": 251,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6138
+                "stars": 6143,
+                "topics": [
+                  "agent-framework",
+                  "ai-agents",
+                  "ai-safety",
+                  "compliance",
+                  "governance",
+                  "microsoft",
+                  "owasp",
+                  "policy-engine",
+                  "python",
+                  "security",
+                  "trust",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -447,12 +850,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+                "homepage": null,
                 "id": 1171111467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:09:18Z",
+                "open_issues": 251,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6138
+                "stars": 6143,
+                "topics": [
+                  "agent-framework",
+                  "ai-agents",
+                  "ai-safety",
+                  "compliance",
+                  "governance",
+                  "microsoft",
+                  "owasp",
+                  "policy-engine",
+                  "python",
+                  "security",
+                  "trust",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -470,12 +891,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.",
+                "homepage": null,
                 "id": 213341872,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-26T05:36:36Z",
+                "open_issues": 4,
                 "owner": "EthicalML",
                 "repo": "awesome-artificial-intelligence-regulation",
-                "stars": 1461
+                "stars": 1461,
+                "topics": [
+                  "ai",
+                  "ai-ethics",
+                  "ai-guidelines",
+                  "ai-policy",
+                  "data-ethics",
+                  "data-protection",
+                  "ethical-ai",
+                  "ethics-frameworks",
+                  "guidelines",
+                  "institute-for-ethical-ai",
+                  "machine-learning",
+                  "machine-learning-guidelines",
+                  "principles",
+                  "privacy",
+                  "regulation"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -486,12 +928,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome academic research, books, code of ethics, courses, databases,  data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, regulations, reports, responsible scale policies, tools and standards related to Responsible, Trustworthy, and Human-Centered AI.",
+                "homepage": null,
                 "id": 403280272,
                 "language": null,
-                "last_commit": "2026-08-26T05:44:33Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:01:56Z",
+                "open_issues": 23,
                 "owner": "AthenaCore",
                 "repo": "AwesomeResponsibleAI",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "ai",
+                  "ai-alignment",
+                  "ai-governance",
+                  "ai-regulation",
+                  "ai-safety",
+                  "ai-standards",
+                  "awesome-list",
+                  "ethical-ai",
+                  "explainable-ai",
+                  "fairness-ai",
+                  "human-centered-ai",
+                  "interpretable-ai",
+                  "responsible-ai",
+                  "trustworthy-ai",
+                  "xai"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -515,12 +978,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A game theoretic approach to explain the output of any machine learning model.",
+                "homepage": "https://shap.readthedocs.io",
                 "id": 74505259,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-27T20:49:55Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:30:09Z",
+                "open_issues": 1004,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25707
+                "stars": 25709,
+                "topics": [
+                  "deep-learning",
+                  "explainability",
+                  "gradient-boosting",
+                  "interpretability",
+                  "machine-learning",
+                  "shap",
+                  "shapley"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -531,12 +1007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lime: Explaining the predictions of any machine learning classifier",
+                "homepage": null,
                 "id": 53982546,
                 "language": "JavaScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-07-25T20:32:21Z",
+                "open_issues": 133,
                 "owner": "marcotcr",
                 "repo": "lime",
-                "stars": 12163
+                "stars": 12163,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -547,12 +1028,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fit interpretable models. Explain blackbox machine learning. ",
+                "homepage": "https://interpret.ml/docs",
                 "id": 184704903,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-24T16:52:26Z",
+                "open_issues": 42,
                 "owner": "interpretml",
                 "repo": "interpret",
-                "stars": 6929
+                "stars": 6929,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "bias",
+                  "blackbox",
+                  "differential-privacy",
+                  "explainability",
+                  "explainable-ai",
+                  "explainable-ml",
+                  "gradient-boosting",
+                  "iml",
+                  "interpretability",
+                  "interpretable-ai",
+                  "interpretable-machine-learning",
+                  "interpretable-ml",
+                  "interpretml",
+                  "machine-learning",
+                  "scikit-learn",
+                  "transparency",
+                  "xai"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -563,12 +1069,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model interpretability and understanding for PyTorch",
+                "homepage": "https://captum.ai",
                 "id": 204734444,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T04:38:41Z",
+                "open_issues": 72,
                 "owner": "meta-pytorch",
                 "repo": "captum",
-                "stars": 5694
+                "stars": 5694,
+                "topics": [
+                  "feature-attribution",
+                  "feature-importance",
+                  "interpretability",
+                  "interpretable-ai",
+                  "interpretable-ml"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -579,12 +1096,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Algorithms for explaining machine learning models",
+                "homepage": "https://docs.seldon.io/projects/alibi/en/stable/",
                 "id": 172687028,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-17T13:23:21Z",
+                "open_issues": 159,
                 "owner": "SeldonIO",
                 "repo": "alibi",
-                "stars": 2644
+                "stars": 2644,
+                "topics": [
+                  "counterfactual",
+                  "explanations",
+                  "interpretability",
+                  "machine-learning",
+                  "xai"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -595,12 +1123,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interpretability and explainability of data and machine learning models",
+                "homepage": "https://aix360.res.ibm.com/",
                 "id": 196340907,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-08T16:30:28Z",
+                "open_issues": 55,
                 "owner": "Trusted-AI",
                 "repo": "AIX360",
-                "stars": 1797
+                "stars": 1797,
+                "topics": [
+                  "artificial-intelligence",
+                  "codait",
+                  "deep-learning",
+                  "explainabil",
+                  "explainable-ai",
+                  "explainable-ml",
+                  "ibm-research",
+                  "ibm-research-ai",
+                  "machine-learning",
+                  "trusted-ai",
+                  "trusted-ml",
+                  "xai"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -618,12 +1164,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.",
+                "homepage": "https://aif360.res.ibm.com/",
                 "id": 145761123,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-15T19:55:33Z",
+                "open_issues": 220,
                 "owner": "Trusted-AI",
                 "repo": "AIF360",
-                "stars": 2858
+                "stars": 2858,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "bias",
+                  "bias-correction",
+                  "bias-detection",
+                  "bias-finder",
+                  "bias-reduction",
+                  "codait",
+                  "deep-learning",
+                  "discrimination",
+                  "fairness",
+                  "fairness-ai",
+                  "fairness-awareness-model",
+                  "fairness-testing",
+                  "ibm-research",
+                  "ibm-research-ai",
+                  "machine-learning",
+                  "python",
+                  "r",
+                  "trusted-ai"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -634,12 +1206,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package to assess and improve fairness of machine learning models.",
+                "homepage": "https://fairlearn.org",
                 "id": 133444044,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T17:23:49Z",
+                "open_issues": 123,
                 "owner": "fairlearn",
                 "repo": "fairlearn",
-                "stars": 2278
+                "stars": 2278,
+                "topics": [
+                  "ai",
+                  "ai-systems",
+                  "artificial-intelligence",
+                  "fairness",
+                  "fairness-ai",
+                  "fairness-assessment",
+                  "fairness-ml",
+                  "group-fairness",
+                  "harms",
+                  "machine-learning",
+                  "responsible-ai",
+                  "unfairness-mitigation"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -650,12 +1240,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions.",
+                "homepage": "https://responsibleaitoolbox.ai/",
                 "id": 277645425,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T19:32:14Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:15:23Z",
+                "open_issues": 96,
                 "owner": "microsoft",
                 "repo": "responsible-ai-toolbox",
-                "stars": 1826
+                "stars": 1826,
+                "topics": [
+                  "data-analysis",
+                  "data-science",
+                  "data-visualization",
+                  "error-analysis",
+                  "explainability",
+                  "explainable-ai",
+                  "explainable-ml",
+                  "fairness",
+                  "fairness-ai",
+                  "fairness-ml",
+                  "interpretability",
+                  "jupyter",
+                  "machine-learning",
+                  "machinelearning",
+                  "ml",
+                  "responsible-ai",
+                  "ui",
+                  "visualization",
+                  "widget",
+                  "widgets"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -666,12 +1282,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bias Auditing & Fair ML Toolkit",
+                "homepage": "http://www.datasciencepublicpolicy.org/aequitas/",
                 "id": 121427697,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-12T09:51:06Z",
+                "open_issues": 55,
                 "owner": "dssg",
                 "repo": "aequitas",
-                "stars": 771
+                "stars": 771,
+                "topics": [
+                  "bias",
+                  "fairness",
+                  "fairness-testing",
+                  "machine-bias"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -689,12 +1315,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit that streamlines and automates the generation of model cards ",
+                "homepage": "https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide",
                 "id": 282271871,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-26T12:05:00Z",
+                "open_issues": 9,
                 "owner": "tensorflow",
                 "repo": "model-card-toolkit",
-                "stars": 452
+                "stars": 452,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "model-cards",
+                  "responsible-ai",
+                  "responsible-ml",
+                  "tensorflow",
+                  "transparency"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -712,12 +1351,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An adversarial example library for constructing attacks, building defenses, and benchmarking both",
+                "homepage": null,
                 "id": 68254498,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-04-10T13:26:10Z",
+                "open_issues": 46,
                 "owner": "cleverhans-lab",
                 "repo": "cleverhans",
-                "stars": 6450
+                "stars": 6450,
+                "topics": [
+                  "benchmarking",
+                  "machine-learning",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -728,12 +1376,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
+                "homepage": "https://adversarial-robustness-toolbox.readthedocs.io/en/latest/",
                 "id": 125381318,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-12T07:01:28Z",
+                "open_issues": 20,
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
-                "stars": 6209
+                "stars": 6209,
+                "topics": [
+                  "adversarial-attacks",
+                  "adversarial-examples",
+                  "adversarial-machine-learning",
+                  "ai",
+                  "artificial-intelligence",
+                  "attack",
+                  "blue-team",
+                  "evasion",
+                  "extraction",
+                  "inference",
+                  "machine-learning",
+                  "poisoning",
+                  "privacy",
+                  "python",
+                  "red-team",
+                  "trusted-ai",
+                  "trustworthy-ai"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -744,12 +1415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a CLI that provides a generic automation layer for assessing the security of ML models",
+                "homepage": null,
                 "id": 362276202,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-18T13:29:17Z",
+                "open_issues": 26,
                 "owner": "Azure",
                 "repo": "counterfit",
-                "stars": 937
+                "stars": 937,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -767,12 +1443,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Perform data science on data that remains in someone else's server",
+                "homepage": "https://www.openmined.org/",
                 "id": 97641933,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:32:48Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:54:07Z",
+                "open_issues": 21,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9957
+                "stars": 9974,
+                "topics": [
+                  "cryptography",
+                  "deep-learning",
+                  "federated-learning",
+                  "hacktoberfest",
+                  "privacy",
+                  "python",
+                  "pytorch",
+                  "secure-computation",
+                  "syft"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -783,12 +1474,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for training machine learning models with privacy for training data",
+                "homepage": null,
                 "id": 162747292,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:07:16Z",
+                "open_issues": 136,
                 "owner": "tensorflow",
                 "repo": "privacy",
-                "stars": 2026
+                "stars": 2026,
+                "topics": [
+                  "machine-learning",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             },
@@ -799,12 +1498,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The core library of differential privacy algorithms powering the OpenDP Project.",
+                "homepage": "https://docs.opendp.org",
                 "id": 336597985,
                 "language": "Rust",
-                "last_commit": "2026-08-27T17:41:00Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:19:51Z",
+                "open_issues": 358,
                 "owner": "opendp",
                 "repo": "opendp",
-                "stars": 433
+                "stars": 433,
+                "topics": [
+                  "differential-privacy",
+                  "dp-programming-framework",
+                  "opendp",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
             }
@@ -818,17 +1527,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:59:03.783Z",
+    "last_updated": "2026-08-29T04:24:57.390Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated tools, official sources, OSS, templates, and guides for EU AI Act compliance.",
+      "homepage": "https://github.com/GenAI-Gurus/awesome-eu-ai-act#readme",
       "id": 740460500,
       "language": null,
-      "last_commit": "2026-06-27T21:53:22Z",
+      "license": "CC0-1.0",
+      "last_commit": "2026-08-28T17:34:01Z",
+      "open_issues": 15,
       "owner": "GenAI-Gurus",
       "repo": "awesome-eu-ai-act",
-      "stars": 86
+      "stars": 91,
+      "topics": [
+        "agentic-ai",
+        "ai-compliance",
+        "ai-governance",
+        "ai-policy",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "compliance",
+        "eu-ai-act",
+        "european-union",
+        "regtech",
+        "responsible-ai",
+        "risk-management",
+        "trustworthy-ai"
+      ]
     },
-    "original_repository_sha": "20e72c629596645814a953d9c3ece51cb88f51b9",
+    "original_repository_sha": "1c7123569ef3b919a46827155d2802b44ba8b277",
     "enhanced_repository": "enhansome/enhansome-eu-ai-act",
     "enhanced_repository_description": null,
     "title": "Awesome EU AI Act with stars"
