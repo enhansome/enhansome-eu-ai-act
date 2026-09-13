@@ -526,7 +526,7 @@
                 "open_issues": 249,
                 "owner": "huggingface",
                 "repo": "blog",
-                "stars": 3518,
+                "stars": 3519,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -590,7 +590,7 @@
                 "open_issues": 267,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6244,
+                "stars": 6250,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -704,7 +704,7 @@
                 "id": 1215881923,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-12T01:08:30Z",
+                "last_commit": "2026-09-12T14:28:59Z",
                 "open_issues": 0,
                 "owner": "vaaraio",
                 "repo": "vaara",
@@ -757,7 +757,7 @@
                 "open_issues": 267,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6244,
+                "stars": 6250,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -791,7 +791,7 @@
                 "open_issues": 267,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6244,
+                "stars": 6250,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -825,7 +825,7 @@
                 "open_issues": 267,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6244,
+                "stars": 6250,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -859,7 +859,7 @@
                 "open_issues": 267,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6244,
+                "stars": 6250,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -896,8 +896,8 @@
                 "id": 213341872,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-06T16:53:44Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-12T07:10:10Z",
+                "open_issues": 4,
                 "owner": "EthicalML",
                 "repo": "awesome-artificial-intelligence-regulation",
                 "stars": 1464,
@@ -934,7 +934,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-02T06:17:53Z",
-                "open_issues": 30,
+                "open_issues": 33,
                 "owner": "AthenaCore",
                 "repo": "AwesomeResponsibleAI",
                 "stars": 145,
@@ -987,7 +987,7 @@
                 "open_issues": 983,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25736,
+                "stars": 25743,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1016,7 +1016,7 @@
                 "open_issues": 133,
                 "owner": "marcotcr",
                 "repo": "lime",
-                "stars": 12161,
+                "stars": 12162,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
@@ -1132,7 +1132,7 @@
                 "open_issues": 56,
                 "owner": "Trusted-AI",
                 "repo": "AIX360",
-                "stars": 1802,
+                "stars": 1803,
                 "topics": [
                   "artificial-intelligence",
                   "codait",
@@ -1249,7 +1249,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "responsible-ai-toolbox",
-                "stars": 1834,
+                "stars": 1835,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -1385,7 +1385,7 @@
                 "open_issues": 26,
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
-                "stars": 6221,
+                "stars": 6222,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -1452,7 +1452,7 @@
                 "open_issues": 12,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10029,
+                "stars": 10031,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -1483,7 +1483,7 @@
                 "open_issues": 136,
                 "owner": "tensorflow",
                 "repo": "privacy",
-                "stars": 2033,
+                "stars": 2034,
                 "topics": [
                   "machine-learning",
                   "privacy"
@@ -1527,7 +1527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:19:01.137Z",
+    "last_updated": "2026-09-13T01:15:38.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tools, official sources, OSS, templates, and guides for EU AI Act compliance.",
