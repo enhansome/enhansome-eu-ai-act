@@ -188,11 +188,11 @@
 
 ### AI Agent Governance
 
-* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 8,527 | 🐛 1,130 | 🌐 Go | 📅 2026-10-03 - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
+* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 8,527 | 🐛 1,140 | 🌐 Go | 📅 2026-10-03 - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
 * [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,377 | 🐛 70 | 🌐 Python | 📅 2026-10-03 - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (\~900+ stars).
 * [Nobulex](https://github.com/arian-gogani/nobulex) ⭐ 40 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-01 - Cryptographic audit trails for AI agent record-keeping.
 * [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) ⭐ 32 | 🐛 26 | 🌐 Python | 📅 2026-09-26 - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
-* [Vaara](https://github.com/vaaraio/vaara) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.
+* [Vaara](https://github.com/vaaraio/vaara) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.
 * [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
 
 ### AGT Implementation References
@@ -480,7 +480,7 @@ The AI Act does not exist in isolation. These regulations intersect with it and 
 
 Contributions are welcome. Read `CONTRIBUTING.md` for guidelines.
 
-Please [open an issue](https://github.com/GenAI-Gurus/awesome-eu-ai-act/issues) ⭐ 109 | 🐛 20 | 📅 2026-09-17 if you find a broken link or know a resource that belongs here.
+Please [open an issue](https://github.com/GenAI-Gurus/awesome-eu-ai-act/issues) if you find a broken link or know a resource that belongs here.
 
 ***
 

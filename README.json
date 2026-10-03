@@ -694,8 +694,8 @@
                 "id": 951115072,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T01:17:07Z",
-                "open_issues": 1130,
+                "last_commit": "2026-10-03T04:16:33Z",
+                "open_issues": 1140,
                 "owner": "maximhq",
                 "repo": "bifrost",
                 "stars": 8527,
@@ -850,7 +850,7 @@
                 "id": 1215881923,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T16:56:40Z",
+                "last_commit": "2026-10-03T02:58:08Z",
                 "open_issues": 0,
                 "owner": "vaaraio",
                 "repo": "vaara",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:10:20.070Z",
+    "last_updated": "2026-10-03T04:43:24.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tools, official sources, OSS, templates, and guides for EU AI Act compliance.",
