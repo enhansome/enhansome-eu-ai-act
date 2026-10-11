@@ -17,8 +17,8 @@
                 "id": 844279282,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T23:40:16Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-10T20:38:34Z",
+                "open_issues": 80,
                 "owner": "verifywise-ai",
                 "repo": "verifywise",
                 "stars": 360,
@@ -374,7 +374,7 @@
                 "open_issues": 7,
                 "owner": "aai-institute",
                 "repo": "practical-ai-act",
-                "stars": 21,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
@@ -634,7 +634,7 @@
                 "open_issues": 250,
                 "owner": "huggingface",
                 "repo": "blog",
-                "stars": 3540,
+                "stars": 3542,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -694,11 +694,11 @@
                 "id": 951115072,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T21:38:48Z",
-                "open_issues": 1227,
+                "last_commit": "2026-10-10T21:19:27Z",
+                "open_issues": 1240,
                 "owner": "maximhq",
                 "repo": "bifrost",
-                "stars": 8676,
+                "stars": 8692,
                 "topics": [
                   "ai-gateway",
                   "gateway",
@@ -809,7 +809,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-26T21:57:19Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "msaleme",
                 "repo": "red-team-blue-team-agent-fabric",
                 "stars": 32,
@@ -850,8 +850,8 @@
                 "id": 1215881923,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-10T02:23:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-11T00:13:34Z",
+                "open_issues": 0,
                 "owner": "vaaraio",
                 "repo": "vaara",
                 "stars": 15,
@@ -1046,7 +1046,7 @@
                 "open_issues": 4,
                 "owner": "EthicalML",
                 "repo": "awesome-artificial-intelligence-regulation",
-                "stars": 1472,
+                "stars": 1473,
                 "topics": [
                   "ai",
                   "ai-ethics",
@@ -1133,7 +1133,7 @@
                 "open_issues": 1001,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25801,
+                "stars": 25803,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1179,8 +1179,8 @@
                 "id": 184704903,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T06:32:20Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-10T03:43:23Z",
+                "open_issues": 44,
                 "owner": "interpretml",
                 "repo": "interpret",
                 "stars": 6955,
@@ -1319,7 +1319,7 @@
                 "open_issues": 226,
                 "owner": "Trusted-AI",
                 "repo": "AIF360",
-                "stars": 2875,
+                "stars": 2876,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1357,11 +1357,11 @@
                 "id": 133444044,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T18:11:58Z",
-                "open_issues": 132,
+                "last_commit": "2026-10-10T23:56:21Z",
+                "open_issues": 133,
                 "owner": "fairlearn",
                 "repo": "fairlearn",
-                "stars": 2290,
+                "stars": 2291,
                 "topics": [
                   "ai",
                   "ai-systems",
@@ -1531,7 +1531,7 @@
                 "open_issues": 20,
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
-                "stars": 6263,
+                "stars": 6264,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -1598,7 +1598,7 @@
                 "open_issues": 9,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10040,
+                "stars": 10039,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:30:30.572Z",
+    "last_updated": "2026-10-11T02:01:57.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tools, official sources, OSS, templates, and guides for EU AI Act compliance.",
