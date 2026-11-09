@@ -7,6 +7,80 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AI Interaction Transparency Snippets",
+              "description": "Source-traced examples for AI-chat and synthetic-content notices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Synthetic AI interaction transparency notice snippets with safety validator",
+                "homepage": "https://nldev-hub.github.io/ai-interaction-transparency-snippets/",
+                "id": 1247527595,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-23T13:50:04Z",
+                "open_issues": 0,
+                "owner": "NlDev-hub",
+                "repo": "ai-interaction-transparency-snippets",
+                "stars": 0,
+                "topics": [
+                  "ai-transparency",
+                  "article-50",
+                  "chatbot-disclosure",
+                  "eu-ai-act",
+                  "synthetic-content-label",
+                  "template"
+                ]
+              },
+              "first_seen": "2026-11-09T02:51:04.981Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Retrace",
+              "description": "Open-source scanner that reports AI chatbots and AI-notice wording on a website (Art. 50 evidence).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Find the AI behind anything: prompt, model, tools & settings behind an image, text, website or chatbot API. Local app, zero dependencies.",
+                "homepage": "https://juw12.github.io/retrace/",
+                "id": 1448021575,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-09T01:39:03Z",
+                "open_issues": 1,
+                "owner": "juw12",
+                "repo": "retrace",
+                "stars": 0,
+                "topics": [
+                  "ai-detection",
+                  "ai-transparency",
+                  "c2pa",
+                  "chatbot-detection",
+                  "eu-ai-act",
+                  "forensics",
+                  "llms-txt",
+                  "privacy-first",
+                  "prompt-recovery",
+                  "python",
+                  "website-scanner"
+                ]
+              },
+              "first_seen": "2026-11-09T02:51:04.981Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "EU AI Act-Specific Tools"
+        }
+      ],
+      "title": "Compliance Tools & Platforms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "VerifyWise",
               "description": "Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (~247 stars).",
               "children": [],
@@ -17,8 +91,8 @@
                 "id": 844279282,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T16:52:32Z",
-                "open_issues": 69,
+                "last_commit": "2026-11-09T02:06:12Z",
+                "open_issues": 86,
                 "owner": "verifywise-ai",
                 "repo": "verifywise",
                 "stars": 374,
@@ -644,7 +718,7 @@
                 "open_issues": 261,
                 "owner": "huggingface",
                 "repo": "blog",
-                "stars": 3555,
+                "stars": 3556,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -704,11 +778,11 @@
                 "id": 951115072,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T11:30:29Z",
-                "open_issues": 1458,
+                "last_commit": "2026-11-09T02:45:44Z",
+                "open_issues": 1470,
                 "owner": "maximhq",
                 "repo": "bifrost",
-                "stars": 9425,
+                "stars": 9440,
                 "topics": [
                   "agent-gateway",
                   "ai-gateway",
@@ -750,7 +824,7 @@
                 "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6535,
+                "stars": 6543,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -770,6 +844,48 @@
             },
             {
               "node_type": "item",
+              "title": "Tracekit",
+              "description": "Gates agent tool calls (allow, deny, ask a person) and signs each into an offline-verifiable log.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tamper-evident tracing, policy gates and cross-checks for AI agents: see what the agent did, and why.",
+                "homepage": "https://cygnuxlabs.com/tracekit",
+                "id": 1389096530,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-09T02:39:59Z",
+                "open_issues": 59,
+                "owner": "Cygnux-Labs",
+                "repo": "Tracekit",
+                "stars": 601,
+                "topics": [
+                  "agent-security",
+                  "ai-agents",
+                  "ai-safety",
+                  "audit-log",
+                  "audit-trail",
+                  "certificate-transparency",
+                  "claude-code",
+                  "guardrails",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "llm-security",
+                  "mcp",
+                  "observability",
+                  "openai-agents",
+                  "provenance",
+                  "python",
+                  "tamper-evident",
+                  "transparency-log",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-11-09T02:51:04.981Z"
+            },
+            {
+              "node_type": "item",
               "title": "agent-security-harness",
               "description": "Adversarial testing framework for autonomous agents with EU AI Act crosswalks.",
               "children": [],
@@ -780,8 +896,8 @@
                 "id": 1097142066,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T14:46:30Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-08T23:15:12Z",
+                "open_issues": 41,
                 "owner": "msaleme",
                 "repo": "red-team-blue-team-agent-fabric",
                 "stars": 34,
@@ -822,7 +938,7 @@
                 "id": 1215881923,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-07T10:01:34Z",
+                "last_commit": "2026-11-08T10:15:45Z",
                 "open_issues": 1,
                 "owner": "vaaraio",
                 "repo": "vaara",
@@ -851,6 +967,45 @@
                 ]
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
+            },
+            {
+              "node_type": "item",
+              "title": "solvi",
+              "description": "Python decision runtime: rule checks, human escalation, hash-chained replayable audit trail.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A runtime where decision models propose and your code decides: typed questions, hard rules, quotes checked against the text, escalation with a guaranteed error budget, replayable traces. Works with any System One model.",
+                "homepage": "https://solvi-ai.github.io/solvi/",
+                "id": 1389014569,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-07T01:47:16Z",
+                "open_issues": 0,
+                "owner": "solvi-ai",
+                "repo": "solvi",
+                "stars": 4,
+                "topics": [
+                  "agent-guardrails",
+                  "ai-agents",
+                  "audit-trail",
+                  "conformal-prediction",
+                  "decision-making",
+                  "decision-models",
+                  "explainable-ai",
+                  "guardrails",
+                  "information-extraction",
+                  "llm",
+                  "mcp",
+                  "onnx",
+                  "provenance",
+                  "pydantic",
+                  "python",
+                  "rules-engine",
+                  "small-language-models"
+                ]
+              },
+              "first_seen": "2026-11-09T02:51:04.981Z"
             },
             {
               "node_type": "item",
@@ -902,7 +1057,7 @@
                 "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6535,
+                "stars": 6543,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -936,7 +1091,7 @@
                 "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6535,
+                "stars": 6543,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -970,7 +1125,7 @@
                 "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6535,
+                "stars": 6543,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1004,7 +1159,7 @@
                 "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6535,
+                "stars": 6543,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1041,8 +1196,8 @@
                 "id": 213341872,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-04T15:15:44Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-08T10:40:57Z",
+                "open_issues": 4,
                 "owner": "EthicalML",
                 "repo": "awesome-artificial-intelligence-regulation",
                 "stars": 1486,
@@ -1079,7 +1234,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-11-04T02:59:06Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "AthenaCore",
                 "repo": "AwesomeResponsibleAI",
                 "stars": 157,
@@ -1128,11 +1283,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-03T15:35:42Z",
-                "open_issues": 1013,
+                "last_commit": "2026-11-08T15:14:32Z",
+                "open_issues": 1022,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25853,
+                "stars": 25854,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1161,7 +1316,7 @@
                 "open_issues": 134,
                 "owner": "marcotcr",
                 "repo": "lime",
-                "stars": 12171,
+                "stars": 12172,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:59:03.783Z"
@@ -1178,11 +1333,11 @@
                 "id": 184704903,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-02T17:01:19Z",
+                "last_commit": "2026-11-08T23:28:15Z",
                 "open_issues": 46,
                 "owner": "interpretml",
                 "repo": "interpret",
-                "stars": 6976,
+                "stars": 6975,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1223,7 +1378,7 @@
                 "open_issues": 92,
                 "owner": "meta-pytorch",
                 "repo": "captum",
-                "stars": 5720,
+                "stars": 5721,
                 "topics": [
                   "feature-attribution",
                   "feature-importance",
@@ -1277,7 +1432,7 @@
                 "open_issues": 61,
                 "owner": "Trusted-AI",
                 "repo": "AIX360",
-                "stars": 1809,
+                "stars": 1808,
                 "topics": [
                   "artificial-intelligence",
                   "codait",
@@ -1527,7 +1682,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-05T07:52:55Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
                 "stars": 6304,
@@ -1648,8 +1803,8 @@
                 "id": 336597985,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-08T01:56:13Z",
-                "open_issues": 306,
+                "last_commit": "2026-11-09T02:26:54Z",
+                "open_issues": 309,
                 "owner": "opendp",
                 "repo": "opendp",
                 "stars": 448,
@@ -1672,7 +1827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:37:22.347Z",
+    "last_updated": "2026-11-09T02:51:04.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tools, official sources, OSS, templates, and guides for EU AI Act compliance.",
@@ -1680,8 +1835,8 @@
       "id": 740460500,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-15T00:01:24Z",
-      "open_issues": 29,
+      "last_commit": "2026-11-08T09:53:15Z",
+      "open_issues": 25,
       "owner": "GenAI-Gurus",
       "repo": "awesome-eu-ai-act",
       "stars": 122,
@@ -1702,7 +1857,7 @@
         "trustworthy-ai"
       ]
     },
-    "original_repository_sha": "4b131bb8228bb9703a1a36f6165a30314f17c14f",
+    "original_repository_sha": "d11aa1cfe9c6a04c29ded0aebd14d68fa364c047",
     "enhanced_repository": "enhansome/enhansome-eu-ai-act",
     "enhanced_repository_description": null,
     "title": "Awesome EU AI Act with stars"

@@ -75,6 +75,8 @@
 ### Regulation Text
 
 * [EU AI Act Full Text (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng) - Regulation (EU) 2024/1689 as published in the Official Journal on 12 July 2024.
+* [EU AI Act Consolidated Text (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2024/1689) - Consolidated text incorporating the Digital Omnibus on AI amendments.
+* [Digital Omnibus on AI (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng) - Regulation (EU) 2026/1744 amending the AI Act, in force since 27 July 2026.
 * [AI Act PDF Version (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689) - Official PDF version of the AI Act.
 * [EUR-Lex Plain-Language Summary](https://eur-lex.europa.eu/EN/legal-content/summary/rules-for-trustworthy-artificial-intelligence-in-the-eu.html) - Accessible summary of key provisions and the risk-based approach.
 * [Original 2021 Proposal (COM(2021) 206)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206) - The European Commission's original legislative proposal for historical context.
@@ -83,12 +85,13 @@
 
 * [AI Act - Shaping Europe's Digital Future](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) - Commission's main AI Act landing page with implementation timeline and guidelines.
 * [European Approach to Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence) - Overarching EU AI strategy and AI Continent Action Plan.
-* [Digital Omnibus on AI Regulation Proposal](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal) - Proposal to simplify AI Act implementation and adjust high-risk timelines.
+* [AI Omnibus Implementation Update](https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force) - Commission summary of the adopted changes and revised application dates.
 * [AI Act Standardisation](https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation) - Official page on CEN/CENELEC harmonized standards in ten key areas.
 * [Supporting Implementation with Clear Guidelines](https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines) - Published and upcoming guidelines on prohibited practices, high-risk classification, and transparency.
 * [Guidelines on Prohibited AI Practices](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act) - Commission's interpretation of Article 5 prohibitions with practical examples (4 February 2025).
 * [Guidelines on the Definition of an AI System](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application) - Commission breakdown of the seven cumulative elements of the Article 3(1) AI system definition.
 * [Guidelines on the Scope of Obligations for Providers of GPAI Models](https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers) - Commission interpretation of GPAI definition, the 10²³ FLOP threshold, and downstream-provider duties.
+* [Article 50 Transparency Guidelines](https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems) - Commission guidance on Article 50 duties and exceptions for providers and deployers.
 * [Code of Practice on Marking and Labelling AI-Generated Content](https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content) - Final voluntary Article 50 code for marking, detection, and labelling workflows.
 * [AI Literacy Q\&A](https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers) - Official FAQ on AI literacy obligations under Article 4.
 * [AI Pact](https://digital-strategy.ec.europa.eu/en/policies/ai-pact) - Voluntary initiative enabling early compliance before legal deadlines.
@@ -107,7 +110,7 @@
 ### European Parliament & Governance
 
 * [EU AI Act Explainer (European Parliament)](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence) - Parliament's guide covering risk levels, prohibitions, and timeline.
-* [AI Act Simplification Vote (European Parliament)](https://www.europarl.europa.eu/news/en/press-room/20260611IPR45207/) - Parliament vote on AI Omnibus delays, nudifier-app ban, and next Council step.
+* [AI Act Simplification Vote (European Parliament)](https://www.europarl.europa.eu/news/en/press-room/20260611IPR45207/) - Parliament's June 2026 vote on the AI Omnibus.
 * [Digital Omnibus on AI Procedure File](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0359%28COD%29) - Legislative tracker for the Digital Omnibus on AI file.
 * [European AI Board](https://digital-strategy.ec.europa.eu/en/policies/ai-board) - Member State representatives advising on consistent implementation.
 * [Ethics Guidelines for Trustworthy AI (HLEG)](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) - Landmark 2019 seven-requirement framework that shaped the AI Act.
@@ -138,6 +141,8 @@
 
 ### EU AI Act-Specific Tools
 
+* [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-23 - Source-traced examples for AI-chat and synthetic-content notices.
+* [Retrace](https://github.com/juw12/retrace) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-09 - Open-source scanner that reports AI chatbots and AI-notice wording on a website (Art. 50 evidence).
 * [Vanta EU AI Act](https://www.vanta.com/products/eu-ai-act) - Compliance automation with risk classification, evidence reuse from NIST AI RMF/ISO 42001, and continuous monitoring.
 * [FairNow](https://fairnow.ai/guide/use-fairnow-to-easily-prepare-for-the-eu-ai-act/) - Centralized AI inventory, automated bias audits, and a 2-minute AI Compliance Checker.
 * [Kertos](https://www.kertos.io/) - EU-focused platform supporting EU AI Act, GDPR, and ISO 27001 with AI-driven automation.
@@ -146,7 +151,6 @@
 * [SetAIComply](https://www.setaicomply.com/tools/risk-checker) - Free client-side AI Act risk-tier checker in all 24 EU languages; embeddable.
 * [ComplyLayer](https://complylayer.com/) - AI inventory, risk classification, role-scoped documents and Article 4 acknowledgement records.
 * [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
-* [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-23 - Source-traced examples for AI-chat and synthetic-content notices.
 * [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
 * [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
 * [Scanara](https://scanara.io/en/) - Scans code and docs, classifies AI system risk, and generates EU AI Act compliance dossiers.
@@ -157,7 +161,7 @@
 
 ### EU AI Act Compliance Platforms
 
-* [VerifyWise](https://github.com/verifywise-ai/verifywise) ⭐ 374 | 🐛 69 | 🌐 TypeScript | 📅 2026-11-07 - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (\~247 stars).
+* [VerifyWise](https://github.com/verifywise-ai/verifywise) ⭐ 374 | 🐛 86 | 🌐 TypeScript | 📅 2026-11-09 - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (\~247 stars).
 * [Compl-AI](https://github.com/compl-ai/compl-ai) ⭐ 215 | 🐛 5 | 🌐 Python | 📅 2026-11-04 - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 * [EuConform](https://github.com/Hiepler/EuConform) ⭐ 128 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03 - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (\~107 stars).
 * [EU AI Act MCP Server](https://github.com/SonnyLabs/EU_AI_ACT_MCP) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2025-12-17 - MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.
@@ -167,7 +171,6 @@
 * [ai-act-conformity-pack](https://github.com/plusultra-tools/ai-act-conformity-pack) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - Generates an Annex IV technical-documentation skeleton (Articles 11-15) from a YAML model card. Python CLI, MIT.
 * [PALO Framework](https://github.com/sev7enITA/PALOframework) ⭐ 2 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-29 - Local-first EU AI Act risk tiering, FRIA, lifecycle controls, and evidence workflows.
 * [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-27 - MCP server for EU AI Act risk classification and Annex III analysis.
-* [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 
 ### Reference Implementations
 
@@ -190,30 +193,31 @@
 
 ### Educational & Informational
 
-* [Hugging Face EU AI Act Guide for OSS Developers](https://github.com/huggingface/blog/blob/main/eu-ai-act-for-oss-developers.md) ⭐ 3,555 | 🐛 261 | 🌐 Jupyter Notebook | 📅 2026-11-06 - Official guide covering obligations for GPAI models, copyright compliance, and documentation requirements.
+* [Hugging Face EU AI Act Guide for OSS Developers](https://github.com/huggingface/blog/blob/main/eu-ai-act-for-oss-developers.md) ⭐ 3,556 | 🐛 261 | 🌐 Jupyter Notebook | 📅 2026-11-06 - Official guide covering obligations for GPAI models, copyright compliance, and documentation requirements.
 * [EU AI Act Interactive Guide](https://github.com/niranjanxprt/eu-ai-act) ⭐ 0 | 🐛 1 | 🌐 HTML | 📅 2025-11-03 - Comprehensive interactive guide for startups and SMEs with compliance checker and risk assessment.
 
 ### AI Agent Governance
 
-* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 9,425 | 🐛 1,458 | 🌐 Go | 📅 2026-11-07 - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
-* [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,535 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (\~900+ stars).
-* [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) ⭐ 34 | 🐛 39 | 🌐 Python | 📅 2026-11-07 - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
-* [Vaara](https://github.com/vaaraio/vaara) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-11-07 - Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.
+* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 9,440 | 🐛 1,470 | 🌐 Go | 📅 2026-11-09 - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
+* [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,543 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (\~900+ stars).
+* [Tracekit](https://github.com/Cygnux-Labs/Tracekit) ⭐ 601 | 🐛 59 | 🌐 Python | 📅 2026-11-09 - Gates agent tool calls (allow, deny, ask a person) and signs each into an offline-verifiable log.
+* [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) ⭐ 34 | 🐛 41 | 🌐 Python | 📅 2026-11-08 - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
+* [Vaara](https://github.com/vaaraio/vaara) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-11-08 - Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.
+* [solvi](https://github.com/solvi-ai/solvi) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-07 - Python decision runtime: rule checks, human escalation, hash-chained replayable audit trail.
 * [Mandare](https://github.com/mandarelabs/mandare) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-11 - New open-source gateway: spend limits and a tamper-evident ledger for AI agent LLM calls.
-* [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
-* [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
+* [EATF](https://tyche.institute/eatf/) - Appraisal profiles, verifiers, and test vectors for AI agent action evidence.
 
 ### AGT Implementation References
 
-* [AGT EU AI Act Compliance Checklist](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/eu-ai-act-checklist.md) ⭐ 6,535 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Maps Agent Governance Toolkit controls to EU AI Act requirements.
-* [AGT NIST AI RMF Alignment](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/nist-ai-rmf-alignment.md) ⭐ 6,535 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Maps Agent Governance Toolkit controls to the NIST AI Risk Management Framework.
-* [AGT SOC 2 Type II Mapping](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/soc2-mapping.md) ⭐ 6,535 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Self-assessment mapping Agent Governance Toolkit controls to SOC 2 criteria.
-* [AGT Known Limitations](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/LIMITATIONS.md) ⭐ 6,535 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Documents Agent Governance Toolkit design boundaries and compliance gaps.
+* [AGT EU AI Act Compliance Checklist](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/eu-ai-act-checklist.md) ⭐ 6,543 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Maps Agent Governance Toolkit controls to EU AI Act requirements.
+* [AGT NIST AI RMF Alignment](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/nist-ai-rmf-alignment.md) ⭐ 6,543 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Maps Agent Governance Toolkit controls to the NIST AI Risk Management Framework.
+* [AGT SOC 2 Type II Mapping](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/soc2-mapping.md) ⭐ 6,543 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Self-assessment mapping Agent Governance Toolkit controls to SOC 2 criteria.
+* [AGT Known Limitations](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/LIMITATIONS.md) ⭐ 6,543 | 🐛 134 | 🌐 Python | 📅 2026-11-07 - Documents Agent Governance Toolkit design boundaries and compliance gaps.
 
 ### Curated Lists
 
-* [Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) ⭐ 1,486 | 🐛 5 | 📅 2026-11-04 - Broader AI regulation ecosystem mapping including guidelines, principles, and standards (\~800 stars).
-* [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) ⭐ 157 | 🐛 50 | 📅 2026-11-04 - Curated list of responsible, trustworthy, and human-centered AI resources.
+* [Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) ⭐ 1,486 | 🐛 4 | 📅 2026-11-08 - Broader AI regulation ecosystem mapping including guidelines, principles, and standards (\~800 stars).
+* [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) ⭐ 157 | 🐛 51 | 📅 2026-11-04 - Curated list of responsible, trustworthy, and human-centered AI resources.
 
 ***
 
@@ -270,6 +274,7 @@
 
 ### CEN/CENELEC Standardization (JTC 21)
 
+* [EN 18286:2026 Official Journal Reference](https://eur-lex.europa.eu/eli/dec_impl/2026/2274/oj/eng) - Quality management standard with a presumption of conformity for covered Article 17 requirements.
 * [CEN-CENELEC JTC 21](https://jtc21.eu/) - Official body developing European harmonized standards for the AI Act.
 * [Standard Setting Overview (FLI)](https://artificialintelligenceact.eu/standard-setting-overview/) - Comprehensive overview of the standard-setting process, JTC 21 structure, and timeline.
 * [CEN-CENELEC AI Standards](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) - Trustworthiness, risk management, and conformity assessment standards.
@@ -312,6 +317,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 * [EU AI Act Risk Classification Decision Record](https://brandquill.app/eu-ai-act-risk-classification-assessment-template) - Free editable XLSX for documenting Article 5, Article 6, and Annex III classification evidence.
 * [EU AI Act 90-Day Implementation Playbook (Secure Privacy)](https://secureprivacy.ai/blog/eu-ai-act-implementation-guide) - Structured sprint covering AI system inventory, risk classification, impact assessment, and governance.
 * [EU AI Regulation Decoded](https://euaird.vercel.app/) - Open dataset linking EU AI Act obligations to implementation evidence.
+* [AI Acceptable Use Policy Template (NexoDocs)](https://nexodocs.com/en/guides/ai-acceptable-use-policy-template) - Free editable Word policy for staff use of generative AI, supporting Article 4 AI literacy.
 
 ### FRIA Templates (Fundamental Rights Impact Assessment)
 
@@ -349,6 +355,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 * [40+ EU AI Act Courses (Class Central)](https://www.classcentral.com/subject/eu-ai-act) - Aggregator listing courses across platforms covering compliance, risk assessment, and implementation.
 * [Oxford AI Ethics, Regulation and Compliance Programme](https://www.sbs.ox.ac.uk/programmes/online-learning/oxford-ai-ethics-regulation-and-compliance-programme) - Comprehensive programme with Oxford certificate.
 * [AI Literacy Programs in Europe (FLI)](https://artificialintelligenceact.eu/ai-literacy-programs/) - Curated directory of training programmes supporting Article 4 AI literacy obligations.
+* [EU AI Act AI Literacy Training Guide (ai-courses.ie)](https://ai-courses.ie/guides/eu-ai-act-ai-literacy-training/) - Ireland-focused guide to Article 4 from EUR-Lex and Commission sources, with courses compared.
 
 ### Professional Certifications
 
@@ -408,12 +415,12 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 
 ### Explainability Libraries
 
-* [SHAP](https://github.com/shap/shap) ⭐ 25,853 | 🐛 1,013 | 🌐 Jupyter Notebook | 📅 2026-11-03 - Game-theoretic ML explainability using Shapley values; the most widely used explainability library (\~23,000 stars).
-* [LIME](https://github.com/marcotcr/lime) ⭐ 12,171 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-25 - Model-agnostic library explaining individual predictions via local surrogate models.
-* [InterpretML (Microsoft)](https://github.com/interpretml/interpret) ⭐ 6,976 | 🐛 46 | 🌐 C++ | 📅 2026-11-02 - Trains interpretable glassbox models (EBM) and explains blackbox systems (\~6,000 stars).
-* [Captum (Meta/PyTorch)](https://github.com/meta-pytorch/captum) ⭐ 5,720 | 🐛 92 | 🌐 Python | 📅 2026-11-01 - Model interpretability with Integrated Gradients, SHAP, LIME, and saliency maps for PyTorch.
+* [SHAP](https://github.com/shap/shap) ⭐ 25,854 | 🐛 1,022 | 🌐 Jupyter Notebook | 📅 2026-11-08 - Game-theoretic ML explainability using Shapley values; the most widely used explainability library (\~23,000 stars).
+* [LIME](https://github.com/marcotcr/lime) ⭐ 12,172 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-25 - Model-agnostic library explaining individual predictions via local surrogate models.
+* [InterpretML (Microsoft)](https://github.com/interpretml/interpret) ⭐ 6,975 | 🐛 46 | 🌐 C++ | 📅 2026-11-08 - Trains interpretable glassbox models (EBM) and explains blackbox systems (\~6,000 stars).
+* [Captum (Meta/PyTorch)](https://github.com/meta-pytorch/captum) ⭐ 5,721 | 🐛 92 | 🌐 Python | 📅 2026-11-01 - Model interpretability with Integrated Gradients, SHAP, LIME, and saliency maps for PyTorch.
 * [Alibi (Seldon)](https://github.com/SeldonIO/alibi) ⭐ 2,651 | 🐛 161 | 🌐 Python | 📅 2025-10-17 - Python library for model inspection: SHAP, ALE, counterfactual explanations, and anchors.
-* [AI Explainability 360 (IBM)](https://github.com/Trusted-AI/AIX360) ⭐ 1,809 | 🐛 61 | 🌐 Python | 📅 2026-09-05 - Comprehensive toolkit for interpretability across tabular, text, image, and time series data (\~1,500 stars).
+* [AI Explainability 360 (IBM)](https://github.com/Trusted-AI/AIX360) ⭐ 1,808 | 🐛 61 | 🌐 Python | 📅 2026-09-05 - Comprehensive toolkit for interpretability across tabular, text, image, and time series data (\~1,500 stars).
 
 ### Fairness Toolkits
 
@@ -427,7 +434,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 
 * [Model Card Toolkit (Google/TensorFlow)](https://github.com/tensorflow/model-card-toolkit) ⚠️ Archived - Automates generation of Model Cards for transparency reporting (\~400 stars).
 * [Hugging Face Model Cards](https://huggingface.co/docs/hub/en/model-cards) - Standardized model card format for the Hugging Face Hub.
-* [AI FactSheets 360 (IBM)](https://aifs360.res.ibm.com/) - Comprehensive factsheets documenting AI model development, testing, and deployment.
+* [AI FactSheets (IBM Research)](https://research.ibm.com/publications/a-human-centered-methodology-for-creating-ai-factsheets) - Methodology for documenting AI models and services with FactSheets.
 * [Deon (DrivenData)](https://deon.drivendata.org/) - Ethics checklist tool adding ethical checkpoints to ML workflows.
 
 ### ML Monitoring & Observability
@@ -440,14 +447,14 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 ### Robustness & Adversarial Security
 
 * [CleverHans](https://github.com/cleverhans-lab/cleverhans) ⭐ 6,459 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 - Library for creating adversarial attacks and benchmarking model robustness.
-* [Adversarial Robustness Toolbox (IBM/Linux Foundation)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,304 | 🐛 27 | 🌐 Python | 📅 2026-11-05 - Comprehensive framework for evaluating ML security with attacks, defenses, and metrics.
+* [Adversarial Robustness Toolbox (IBM/Linux Foundation)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,304 | 🐛 28 | 🌐 Python | 📅 2026-11-05 - Comprehensive framework for evaluating ML security with attacks, defenses, and metrics.
 * [Counterfit (Microsoft)](https://github.com/Azure/counterfit) ⚠️ Archived - Command-line tool for orchestrating adversarial attacks and testing ML models.
 
 ### Privacy-Preserving ML
 
 * [PySyft (OpenMined)](https://github.com/OpenMined/PySyft) ⭐ 10,053 | 🐛 21 | 🌐 Python | 📅 2026-11-06 - Secure and private deep learning supporting federated learning and secure computation.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,038 | 🐛 140 | 🌐 Python | 📅 2026-11-06 - Training ML models with differential privacy.
-* [OpenDP](https://github.com/opendp/opendp) ⭐ 448 | 🐛 306 | 🌐 Rust | 📅 2026-11-08 - Library for privacy-aware computations with differential privacy.
+* [OpenDP](https://github.com/opendp/opendp) ⭐ 448 | 🐛 309 | 🌐 Rust | 📅 2026-11-09 - Library for privacy-aware computations with differential privacy.
 
 ***
 
@@ -455,7 +462,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 
 ### EU AI Act Provisions
 
-* [Article 57: AI Regulatory Sandboxes (FLI)](https://artificialintelligenceact.eu/article/57/) - Full text requiring Member States to establish at least one sandbox by 2 August 2026.
+* [Article 57: AI Regulatory Sandboxes (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2024/1689#art_57) - At least one national AI regulatory sandbox per Member State, operational by 2 August 2027.
 * [Draft Implementing Act for AI Sandboxes (EC)](https://digital-strategy.ec.europa.eu/en/consultations/commission-seeks-feedback-draft-implementing-act-establish-ai-regulatory-sandboxes-under-ai-act) - Commission consultation on sandbox establishment and operation.
 
 ### Member State Programs
@@ -466,7 +473,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 ### Analysis
 
 * [Regulatory Sandboxes as AI Governance Tools (FPF)](https://fpf.org/blog/balancing-innovation-and-oversight-regulatory-sandboxes-as-a-tool-for-ai-governance/) - Analysis of approximately 30 jurisdictions with AI sandboxes.
-* [Operationalising AI Sandboxes (Cambridge)](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/operationalising-ai-regulatory-sandboxes-under-the-eu-ai-act) - Academic paper on the challenges of capacity, coordination, and attractiveness.
+* [Operationalising AI Sandboxes (Cambridge)](https://doi.org/10.1017/cfl.2025.10023) - Research on capacity, coordination, and provider participation in AI Act sandboxes.
 
 ***
 
@@ -502,4 +509,4 @@ Maintained by [Carlos Hernandez](https://www.linkedin.com/in/carloshvp) ([GitHub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
