@@ -161,7 +161,7 @@
 
 ### EU AI Act Compliance Platforms
 
-* [VerifyWise](https://github.com/verifywise-ai/verifywise) ⭐ 377 | 🐛 69 | 🌐 TypeScript | 📅 2026-11-18 - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (\~247 stars).
+* [VerifyWise](https://github.com/verifywise-ai/verifywise) ⭐ 377 | 🐛 71 | 🌐 TypeScript | 📅 2026-11-19 - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (\~247 stars).
 * [Compl-AI](https://github.com/compl-ai/compl-ai) ⭐ 215 | 🐛 5 | 🌐 Python | 📅 2026-11-13 - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 * [EuConform](https://github.com/Hiepler/EuConform) ⭐ 129 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-11 - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (\~107 stars).
 * [EU AI Act MCP Server](https://github.com/SonnyLabs/EU_AI_ACT_MCP) ⭐ 35 | 🐛 3 | 🌐 Python | 📅 2025-12-17 - MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.
@@ -187,37 +187,37 @@
 * [Regula](https://github.com/kuzivaai/getregula) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2026-11-09 - CLI for EU AI Act risk scanning, conformity evidence packs, and CrowS-Pairs bias evaluation.
 * [AI Assessment Tool (AI4Belgium)](https://github.com/AI4Belgium/ai-assessment-tool) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2025-12-15 - Open-source interactive tool based on ALTAI recommendations for assessing AI trustworthiness.
 * [AI Act Companion](https://github.com/JKasteele/ai-act-companion) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - Local-first EU AI Act risk classifier with cited results and document templates.
-* [EU AI Act Classifier](https://github.com/sebastianfoerste/eu-ai-act-classifier) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-11-17 - Deterministic risk-tier classifier with pinpoint citations, obligation tracking, and review gates.
+* [EU AI Act Classifier](https://github.com/sebastianfoerste/eu-ai-act-classifier) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-11-18 - Deterministic risk-tier classifier with pinpoint citations, obligation tracking, and review gates.
 * [EU AI Act Risk Checker (Crux Digits)](https://github.com/tomdxb0004/eu-ai-act-risk-checker) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-09-15 - Browser-based risk-tier triage with per-article citations, updated for the 2026 Digital Omnibus.
 * [High-Risk Classifier (EU AI Regulation Decoded)](https://euaird.vercel.app/high-risk-classifier.html) - Article 6 / Annex III decision aid mapping an AI system to its risk tier and expected evidence.
 
 ### Educational & Informational
 
-* [Hugging Face EU AI Act Guide for OSS Developers](https://github.com/huggingface/blog/blob/main/eu-ai-act-for-oss-developers.md) ⭐ 3,567 | 🐛 259 | 🌐 Jupyter Notebook | 📅 2026-11-17 - Official guide covering obligations for GPAI models, copyright compliance, and documentation requirements.
+* [Hugging Face EU AI Act Guide for OSS Developers](https://github.com/huggingface/blog/blob/main/eu-ai-act-for-oss-developers.md) ⭐ 3,570 | 🐛 259 | 🌐 Jupyter Notebook | 📅 2026-11-18 - Official guide covering obligations for GPAI models, copyright compliance, and documentation requirements.
 * [EU AI Act Interactive Guide](https://github.com/niranjanxprt/eu-ai-act) ⭐ 0 | 🐛 1 | 🌐 HTML | 📅 2025-11-03 - Comprehensive interactive guide for startups and SMEs with compliance checker and risk assessment.
 
 ### AI Agent Governance
 
-* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 9,698 | 🐛 1,555 | 🌐 Go | 📅 2026-11-18 - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
-* [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,576 | 🐛 165 | 🌐 Python | 📅 2026-11-17 - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (\~900+ stars).
-* [Tracekit](https://github.com/Cygnux-Labs/Tracekit) ⭐ 766 | 🐛 81 | 🌐 Python | 📅 2026-11-18 - Gates agent tool calls (allow, deny, ask a person) and signs each into an offline-verifiable log.
-* [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) ⭐ 34 | 🐛 39 | 🌐 Python | 📅 2026-11-11 - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
-* [Vaara](https://github.com/vaaraio/vaara) ⭐ 15 | 🐛 8 | 🌐 Python | 📅 2026-11-17 - Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.
+* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 9,749 | 🐛 1,558 | 🌐 Go | 📅 2026-11-19 - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
+* [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,578 | 🐛 167 | 🌐 Python | 📅 2026-11-18 - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (\~900+ stars).
+* [Tracekit](https://github.com/Cygnux-Labs/Tracekit) ⭐ 774 | 🐛 124 | 🌐 Python | 📅 2026-11-19 - Gates agent tool calls (allow, deny, ask a person) and signs each into an offline-verifiable log.
+* [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) ⭐ 34 | 🐛 43 | 🌐 Python | 📅 2026-11-19 - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
+* [Vaara](https://github.com/vaaraio/vaara) ⭐ 15 | 🐛 8 | 🌐 Python | 📅 2026-11-18 - Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.
 * [solvi](https://github.com/solvi-ai/solvi) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-11-07 - Python decision runtime: rule checks, human escalation, hash-chained replayable audit trail.
 * [Mandare](https://github.com/mandarelabs/mandare) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-11 - New open-source gateway: spend limits and a tamper-evident ledger for AI agent LLM calls.
 * [EATF](https://tyche.institute/eatf/) - Appraisal profiles, verifiers, and test vectors for AI agent action evidence.
 
 ### AGT Implementation References
 
-* [AGT EU AI Act Compliance Checklist](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/eu-ai-act-checklist.md) ⭐ 6,576 | 🐛 165 | 🌐 Python | 📅 2026-11-17 - Maps Agent Governance Toolkit controls to EU AI Act requirements.
-* [AGT NIST AI RMF Alignment](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/nist-ai-rmf-alignment.md) ⭐ 6,576 | 🐛 165 | 🌐 Python | 📅 2026-11-17 - Maps Agent Governance Toolkit controls to the NIST AI Risk Management Framework.
-* [AGT SOC 2 Type II Mapping](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/soc2-mapping.md) ⭐ 6,576 | 🐛 165 | 🌐 Python | 📅 2026-11-17 - Self-assessment mapping Agent Governance Toolkit controls to SOC 2 criteria.
-* [AGT Known Limitations](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/LIMITATIONS.md) ⭐ 6,576 | 🐛 165 | 🌐 Python | 📅 2026-11-17 - Documents Agent Governance Toolkit design boundaries and compliance gaps.
+* [AGT EU AI Act Compliance Checklist](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/eu-ai-act-checklist.md) ⭐ 6,578 | 🐛 167 | 🌐 Python | 📅 2026-11-18 - Maps Agent Governance Toolkit controls to EU AI Act requirements.
+* [AGT NIST AI RMF Alignment](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/nist-ai-rmf-alignment.md) ⭐ 6,578 | 🐛 167 | 🌐 Python | 📅 2026-11-18 - Maps Agent Governance Toolkit controls to the NIST AI Risk Management Framework.
+* [AGT SOC 2 Type II Mapping](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/soc2-mapping.md) ⭐ 6,578 | 🐛 167 | 🌐 Python | 📅 2026-11-18 - Self-assessment mapping Agent Governance Toolkit controls to SOC 2 criteria.
+* [AGT Known Limitations](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/LIMITATIONS.md) ⭐ 6,578 | 🐛 167 | 🌐 Python | 📅 2026-11-18 - Documents Agent Governance Toolkit design boundaries and compliance gaps.
 
 ### Curated Lists
 
 * [Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) ⭐ 1,488 | 🐛 6 | 📅 2026-11-16 - Broader AI regulation ecosystem mapping including guidelines, principles, and standards (\~800 stars).
-* [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) ⭐ 158 | 🐛 58 | 📅 2026-11-04 - Curated list of responsible, trustworthy, and human-centered AI resources.
+* [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) ⭐ 158 | 🐛 60 | 📅 2026-11-04 - Curated list of responsible, trustworthy, and human-centered AI resources.
 
 ***
 
@@ -415,18 +415,18 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 
 ### Explainability Libraries
 
-* [SHAP](https://github.com/shap/shap) ⭐ 25,867 | 🐛 1,021 | 🌐 Jupyter Notebook | 📅 2026-11-15 - Game-theoretic ML explainability using Shapley values; the most widely used explainability library (\~23,000 stars).
+* [SHAP](https://github.com/shap/shap) ⭐ 25,872 | 🐛 1,021 | 🌐 Jupyter Notebook | 📅 2026-11-15 - Game-theoretic ML explainability using Shapley values; the most widely used explainability library (\~23,000 stars).
 * [LIME](https://github.com/marcotcr/lime) ⭐ 12,173 | 🐛 135 | 🌐 JavaScript | 📅 2024-07-25 - Model-agnostic library explaining individual predictions via local surrogate models.
 * [InterpretML (Microsoft)](https://github.com/interpretml/interpret) ⭐ 6,986 | 🐛 47 | 🌐 C++ | 📅 2026-11-16 - Trains interpretable glassbox models (EBM) and explains blackbox systems (\~6,000 stars).
-* [Captum (Meta/PyTorch)](https://github.com/meta-pytorch/captum) ⭐ 5,722 | 🐛 97 | 🌐 Python | 📅 2026-11-17 - Model interpretability with Integrated Gradients, SHAP, LIME, and saliency maps for PyTorch.
+* [Captum (Meta/PyTorch)](https://github.com/meta-pytorch/captum) ⭐ 5,722 | 🐛 97 | 🌐 Python | 📅 2026-11-19 - Model interpretability with Integrated Gradients, SHAP, LIME, and saliency maps for PyTorch.
 * [Alibi (Seldon)](https://github.com/SeldonIO/alibi) ⭐ 2,651 | 🐛 161 | 🌐 Python | 📅 2025-10-17 - Python library for model inspection: SHAP, ALE, counterfactual explanations, and anchors.
-* [AI Explainability 360 (IBM)](https://github.com/Trusted-AI/AIX360) ⭐ 1,809 | 🐛 61 | 🌐 Python | 📅 2026-09-05 - Comprehensive toolkit for interpretability across tabular, text, image, and time series data (\~1,500 stars).
+* [AI Explainability 360 (IBM)](https://github.com/Trusted-AI/AIX360) ⭐ 1,810 | 🐛 61 | 🌐 Python | 📅 2026-09-05 - Comprehensive toolkit for interpretability across tabular, text, image, and time series data (\~1,500 stars).
 
 ### Fairness Toolkits
 
-* [AI Fairness 360 (IBM/Linux Foundation)](https://github.com/Trusted-AI/AIF360) ⭐ 2,884 | 🐛 235 | 🌐 Python | 📅 2026-06-15 - 70+ fairness metrics and 10+ bias mitigation algorithms (\~2,500 stars).
+* [AI Fairness 360 (IBM/Linux Foundation)](https://github.com/Trusted-AI/AIF360) ⭐ 2,884 | 🐛 237 | 🌐 Python | 📅 2026-06-15 - 70+ fairness metrics and 10+ bias mitigation algorithms (\~2,500 stars).
 * [Fairlearn (Microsoft)](https://github.com/fairlearn/fairlearn) ⭐ 2,310 | 🐛 128 | 🌐 Python | 📅 2026-11-17 - Assessing and improving fairness with group fairness metrics and mitigation algorithms (\~1,900 stars).
-* [Responsible AI Toolbox (Microsoft)](https://github.com/microsoft/responsible-ai-toolbox) ⭐ 1,858 | 🐛 82 | 🌐 TypeScript | 📅 2026-11-18 - Unified dashboard combining Fairlearn, InterpretML, Error Analysis, and Counterfactual Analysis (\~1,300 stars).
+* [Responsible AI Toolbox (Microsoft)](https://github.com/microsoft/responsible-ai-toolbox) ⭐ 1,858 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-18 - Unified dashboard combining Fairlearn, InterpretML, Error Analysis, and Counterfactual Analysis (\~1,300 stars).
 * [Aequitas (University of Chicago)](https://github.com/dssg/aequitas) ⭐ 778 | 🐛 62 | 🌐 Python | 📅 2026-05-12 - Bias and fairness audit toolkit across multiple population sub-groups.
 * [What-If Tool (Google)](https://pair-code.github.io/what-if-tool/) - Visual, interactive model analysis without code.
 
@@ -447,14 +447,14 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 ### Robustness & Adversarial Security
 
 * [CleverHans](https://github.com/cleverhans-lab/cleverhans) ⭐ 6,459 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 - Library for creating adversarial attacks and benchmarking model robustness.
-* [Adversarial Robustness Toolbox (IBM/Linux Foundation)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,317 | 🐛 25 | 🌐 Python | 📅 2026-11-13 - Comprehensive framework for evaluating ML security with attacks, defenses, and metrics.
+* [Adversarial Robustness Toolbox (IBM/Linux Foundation)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,320 | 🐛 25 | 🌐 Python | 📅 2026-11-13 - Comprehensive framework for evaluating ML security with attacks, defenses, and metrics.
 * [Counterfit (Microsoft)](https://github.com/Azure/counterfit) ⚠️ Archived - Command-line tool for orchestrating adversarial attacks and testing ML models.
 
 ### Privacy-Preserving ML
 
-* [PySyft (OpenMined)](https://github.com/OpenMined/PySyft) ⭐ 10,060 | 🐛 33 | 🌐 Python | 📅 2026-11-17 - Secure and private deep learning supporting federated learning and secure computation.
-* [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,038 | 🐛 139 | 🌐 Python | 📅 2026-11-17 - Training ML models with differential privacy.
-* [OpenDP](https://github.com/opendp/opendp) ⭐ 448 | 🐛 343 | 🌐 Rust | 📅 2026-11-18 - Library for privacy-aware computations with differential privacy.
+* [PySyft (OpenMined)](https://github.com/OpenMined/PySyft) ⭐ 10,060 | 🐛 19 | 🌐 Python | 📅 2026-11-18 - Secure and private deep learning supporting federated learning and secure computation.
+* [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,039 | 🐛 138 | 🌐 Python | 📅 2026-11-18 - Training ML models with differential privacy.
+* [OpenDP](https://github.com/opendp/opendp) ⭐ 448 | 🐛 323 | 🌐 Rust | 📅 2026-11-19 - Library for privacy-aware computations with differential privacy.
 
 ***
 
@@ -509,4 +509,4 @@ Maintained by [Carlos Hernandez](https://www.linkedin.com/in/carloshvp) ([GitHub
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
